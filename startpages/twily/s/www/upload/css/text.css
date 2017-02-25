@@ -1,0 +1,13 @@
+#text {
+    width: inherit; height: 100%;
+    overflow: auto;
+}
+    .box {
+        background: #27282B; color: #AAABAD;
+        width: 100%; padding: 4px;
+        word-wrap: break-word;
+    }
+    .box .age {
+        color: #606163; float: right;
+        cursor: default;
+    }

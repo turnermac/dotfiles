@@ -1,0 +1,19 @@
+> curl -v -s https://linkmauve.fr/ > /dev/null
+
+*   Trying 82.226.255.187...
+* Connected to linkmauve.fr (82.226.255.187) port 443 (#0)
+* ALPN, offering http/1.1
+* Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+* successfully set certificate verify locations:
+*   CAfile: /etc/ssl/certs/ca-certificates.crt
+  CApath: /etc/ssl/certs
+* TLSv1.2 (OUT), TLS header, Certificate Status (22):
+} [5 bytes data]
+* TLSv1.2 (OUT), TLS handshake, Client hello (1):
+} [220 bytes data]
+* TLSv1.2 (IN), TLS header, Unknown (21):
+{ [5 bytes data]
+* TLSv1.2 (IN), TLS alert, Server hello (2):
+{ [2 bytes data]
+* error:14077410:SSL routines:SSL23_GET_SERVER_HELLO:sslv3 alert handshake failure
+* Closing connection 0

@@ -1,0 +1,76 @@
+!! Defines
+#define  MOD      mod4
+
+!! URxvt
+
+! Fonts
+URxvt.font: xft:Hack:pixelsize=9:antialias=true:hinting=true,xft:M+ 1p:pixelsize=28:antialias=true:hinting=true,xft:Baekmuk Gulim:pixelsize=28:antialias=true:hinting=true,
+URxvt.boldfont: xft:PixelMPlus12:pixelsize=28:antialias=true:hinting=true,xft:M+ 1p:pixelsize=28:antialias=true:hinting=true,xft:Baekmuk Gulim:pixelsize=28:antialias=true:hinting=true,
+URxvt.letterSpace: 2
+
+! Colors
+URxvt.borderColor:  #302625
+URxvt.background:   #302625
+URxvt.foreground:   #f0eac8
+
+! Black
+URxvt.color0:       #353540
+URxvt.color8:       #545466
+
+! Red
+URxvt.color1:       #aa5654
+URxvt.color9:       #dc6f6c
+
+! Green
+URxvt.color2:       #c7bd98
+URxvt.color10:      #f9ecbe
+
+! Yellow
+URxvt.color3:       #c5a86c
+URxvt.color11:      #f7d287
+
+! Blue
+URxvt.color4:       #aa988c
+URxvt.color12:      #dcc4b5
+
+! Magenta
+URxvt.color5:       #aa837b
+URxvt.color13:      #dca99f
+
+! Cyan
+URxvt.color6:       #c7c5a8
+URxvt.color14:      #f9f6d2
+
+! White
+URxvt.color7:       #d8d8d8
+URxvt.color15:      #eaeaea
+
+! Appearance
+URxvt.saveLines:        12000
+URxvt.internalBorder:   30
+URxvt.urgentOnBell:     true
+URxvt.scrollBar:        false 
+URxvt.cursorBlink:      true
+
+! Clickable links
+URxvt.url-launcher:     firefox
+URxvt.matcher.button:   1
+
+URxvt.perl-ext-common:  default,matcher,confirm-paste
+
+!! Xautolock
+
+Xautolock.time:         5
+Xautolock.locker:       i3plock
+
+Xautolock.corners:      000-
+Xautolock.cornersize:   200
+
+!! Xft
+
+Xft.antialias:          1
+Xft.dpi:                96 
+Xft.hinting:            1
+Xft.hintstyle:          hintmedium
+Xft.rgba:               none
+

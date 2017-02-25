@@ -1,0 +1,10 @@
+cd 
+rename .k
+[1;4D
+
+open_with vim
+open_with 
+open_with konsole
+delete
+delete 
+edit

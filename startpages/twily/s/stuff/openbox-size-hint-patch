@@ -1,0 +1,38 @@
+#
+# This is an guide to remove size hints on terminal
+# and forced aspect ratio on mpv/mplayer in OpenBox.
+#
+
+# Clone source code into ~/openbox.git
+$ git clone https://github.com/danakj/openbox ~/openbox.git
+
+# Goto the directory
+$ cd ~/openbox.git
+
+# Edit file 'client.c' with your preferred text editor
+$ vim ./openbox/client.c
+
+# In this file goto Line 1742 or search for 'PAspect'
+# Make the following changes to the file then save and exit
+#
+#   -1742:  if (size.flags & PAspect) {
+#   +1742:  /*if (size.flags & PAspect) {
+#
+#   -1749:  }
+#   +1749:  }*/
+#
+#   -1760:  if (size.flags & PResizeInc && size.width_inc && size.height_inc)
+#   +1760:  /*if (size.flags & PResizeInc && size.width_inc && size.height_inc)
+#
+#   -1761:     SIZE_SET(self->size_inc, size.width_inc, size.height_inc);
+#   +1761:     SIZE_SET(self->size_inc, size.width_inc, size.height_inc);*/
+#
+
+# Install with the following commands
+# (See 'README.GIT' for more information on building)
+$ ./bootstrap
+$ ./configure
+$ make
+$ sudo make install
+
+# Restart OpenBox or test with another session

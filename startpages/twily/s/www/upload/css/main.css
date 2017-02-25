@@ -1,0 +1,29 @@
+html,body { width: 100%; height: 100%; }
+body {
+	padding: 32px;
+	background: #17181A; color: #AAABAD;
+}
+
+#bar { width: 100%; height: 100%; }
+
+#note:before {
+	content: ''; height: 111%;
+	display: inline-block; vertical-align: middle;
+}
+#note {
+	display: inline-block; vertical-align: middle;
+	width: auto; height: 100%;
+	padding-right: 4px;
+}
+#progress:before {
+	content: ''; height: 111%;
+	display: inline-block; vertical-align: middle;
+}
+#progress {
+	display: inline-block; vertical-align: middle;
+	width: 0%; height: 100%;
+	background: #84BD3F; color: #111113;
+	overflow: hidden; white-space: nowrap;
+	float: right;
+}
+

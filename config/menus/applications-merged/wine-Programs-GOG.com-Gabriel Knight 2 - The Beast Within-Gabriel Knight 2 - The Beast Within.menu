@@ -1,0 +1,24 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+"http://www.freedesktop.org/standards/menu-spec/menu-1.0.dtd">
+<Menu>
+  <Name>Applications</Name>
+  <Menu>
+    <Name>wine-wine</Name>
+    <Directory>wine-wine.directory</Directory>
+  <Menu>
+    <Name>wine-Programs</Name>
+    <Directory>wine-Programs.directory</Directory>
+  <Menu>
+    <Name>wine-Programs-GOG.com</Name>
+    <Directory>wine-Programs-GOG.com.directory</Directory>
+  <Menu>
+    <Name>wine-Programs-GOG.com-Gabriel Knight 2 - The Beast Within</Name>
+    <Directory>wine-Programs-GOG.com-Gabriel Knight 2 - The Beast Within.directory</Directory>
+    <Include>
+      <Filename>wine-Programs-GOG.com-Gabriel Knight 2 - The Beast Within-Gabriel Knight 2 - The Beast Within.desktop</Filename>
+    </Include>
+  </Menu>
+  </Menu>
+  </Menu>
+  </Menu>
+</Menu>

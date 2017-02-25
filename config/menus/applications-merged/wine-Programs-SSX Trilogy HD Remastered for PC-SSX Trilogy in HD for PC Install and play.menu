@@ -1,0 +1,20 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+"http://www.freedesktop.org/standards/menu-spec/menu-1.0.dtd">
+<Menu>
+  <Name>Applications</Name>
+  <Menu>
+    <Name>wine-wine</Name>
+    <Directory>wine-wine.directory</Directory>
+  <Menu>
+    <Name>wine-Programs</Name>
+    <Directory>wine-Programs.directory</Directory>
+  <Menu>
+    <Name>wine-Programs-SSX Trilogy HD Remastered for PC</Name>
+    <Directory>wine-Programs-SSX Trilogy HD Remastered for PC.directory</Directory>
+    <Include>
+      <Filename>wine-Programs-SSX Trilogy HD Remastered for PC-SSX Trilogy in HD for PC Install and play.desktop</Filename>
+    </Include>
+  </Menu>
+  </Menu>
+  </Menu>
+</Menu>

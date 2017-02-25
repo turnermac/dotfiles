@@ -1,0 +1,63 @@
+<!--
+
+    Sources:
+
+    https://www.paypal.com/webapps/mpp/get-started/donate-button
+    http://stackoverflow.com/questions/133925/javascript-post-request-like-a-form-submit
+    http://stackoverflow.com/questions/1244043/javascript-getting-a-name-of-an-element-in-associative-array
+    http://stackoverflow.com/questions/7372067/is-there-any-way-to-prevent-input-type-number-getting-negative-values
+    http://stackoverflow.com/questions/19011861/is-there-a-float-input-type-in-html5
+    
+-->
+<script type="text/javascript">
+function donate(email) {
+    var form=document.createElement('form');
+    form.setAttribute("action","https://www.paypal.com/cgi-bin/webscr");
+    form.setAttribute("method","post");
+    form.setAttribute("target","_blank");
+
+    var data={
+        cmd:            "_donations",
+        business:       email.replace(' at ','@').replace(' dot ','.'),
+        lc:             "NO",
+        item_name:      "twily.info",
+        amount:         document.getElementById('amount').value,
+        currency_code:  "USD",
+        no_note:        "0"
+    };
+
+    for(key in data) {
+        var hidden=document.createElement('input');
+        hidden.setAttribute("type","hidden");
+        hidden.setAttribute("name",key);
+        hidden.setAttribute("value",data[key]);
+
+        form.appendChild(hidden);
+    }
+
+    document.body.appendChild(form);
+    form.submit();
+}
+</script>
+<style type="text/css">
+#amount {
+    display: inline-block; width: 64px;
+    padding: 5px 0; margin: 0 6px;
+    background: #27282B; color: #CECFD1;
+    box-sizing: border-box; border: 0;
+    text-align: center; border-radius: 1px;
+}
+</style>
+
+<center>
+<br />
+<label>Want to support &lt;<b>twily.info</b>&gt; with a donation of </label>
+<input type="number" id="amount" value="2.00" min="0" step="0.01" />
+<label> USD? </label>
+<br />
+<br />
+<br />
+<a class="btn" href="javascript:donate('twily at openmailbox dot org');">Proceed with PayPal</a>
+<br />
+<br />
+</center>

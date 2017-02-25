@@ -1,0 +1,13 @@
+Source code for Twily.info.
+
+
+To host your own files you'll need a web server w/ php (+php zip extension), then place your files/folders in this directory.
+
+
+Note: .htaccess is required to mask the url.
+    Masked:     '.info/dir/file'
+    Unmasked:   '.info/?p=dir/file'
+
+
+Note2: If you want to change the name of this directory it must also be changed in /php/setup.php and /.htaccess.
+    (There cannot be a file or directory in this directory with the same name as one that already exists in the parent directory).

@@ -1,0 +1,96 @@
+html,body {
+    margin: 0; padding: 0; box-sizing: border-box;
+    width: 100%; height: auto; color: #AAABAD;   
+    background: url('../img/twily.png?v=2') no-repeat right 0 center #17181A;
+    font-family: "Droid Sans", "Liberation Sans", "DejaVu Sans", "Segoe UI", Sans;
+    background-attachment: fixed; font-size: 10pt;
+}
+:focus { outline: none !important; }
+
+hr { border: 0; height: 2px; background: #27282B; margin: 0; padding: 0; }
+.media { max-width: 100%; width: auto; height: auto; padding: 0 !important; border-radius: 0 !important; }
+
+a:link, a:visited { color: #AAABAD; text-decoration: none; border-radius: 1px; transition: color .2s ease, background .2s ease;}
+a:hover, a:active { color: #CECFD1; background: #27282B; }
+
+.btn:link, .btn:visited { display: inline-block; margin: 0; padding: 5px 10px; font-size: 10pt; }
+    .bt { border-top-left-radius: 0 !important; border-top-right-radius: 0 !important; }
+    .bb { border-bottom-left-radius: 0 !important; border-bottom-right-radius: 0 !important; }
+
+#container { position: absolute; top: 0; left: 0; width: 100%; box-sizing: border-box; padding: 64px; }
+    .action { float: right; }
+        .items { color: #606163; padding-right: 8px; }
+        .lastm { padding-right: 8px; }
+
+    #browse { display: flex; flex-flow: row wrap; justify-content: flex-start; /* center */ }
+        .file, .dir {
+            display: inline-block; min-width: 96px; min-height: 64px; width: 96px; height: auto;
+            text-align: center; word-wrap: break-word; padding: 8px;
+        }
+        .file:active, .dir:active { padding-top: 9px; padding-bottom: 7px; }
+            .icon { width: 100%; height: 32px; margin-bottom: 8px; position: relative; }
+                .icon img {
+                    display: block; max-width: 32px; max-height: 32px;
+                    position: absolute; bottom: 0; left: 50%; transform: translateX(-50%);
+                    visibility: hidden;
+                }
+            .new { text-decoration: underline !important; }
+            .hid img { opacity: .7; /* display: none !important; */ }
+            .selected:link, .selected:visited                 { background: #27282B; color: #CECFD1 !important; }
+            #browse .selected:link, #browse .selected:visited { background: #84BD3F; color: #17181A !important; }
+
+.cleft {
+    -moz-transform: scaleX(-1); -o-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1); transform: scaleX(-1);
+    display: inline-block;
+}
+#copyleft { float: left; }
+#contact  { float: right; }
+#visits   { padding-top: 384px; text-align: center; color: #606163; }
+#top      { width: 100%; box-sizing: border-box; }
+
+.arrow {
+    position: fixed; right: 64px;/* left: 64px;*/
+    background: #17181A;
+    text-align: center;
+    transition: background .2s ease;
+    z-index: 20; cursor: pointer;
+}
+#top_arrow {
+    display: none; top: 0;
+    border-bottom-left-radius: 1px;
+    border-bottom-right-radius: 1px;
+}
+    #top_arrow:hover { background: #27282B; }
+#bot_arrow {
+    display: none; bottom: 0;
+    border-top-left-radius: 1px;
+    border-top-right-radius: 1px;
+}
+    #bot_arrow:hover { background: #27282B; }
+
+#text {
+    border: 0; border-radius: 1px;
+    display: block; padding: 8px; box-sizing: border-box;
+    background: #17181A; color: #CECFD1;
+    text-align: left; font-size: 10pt;
+    position: relative; z-index: 10; transition: background .2s ease;
+}
+#text:hover { background: #111113; }
+
+#chat {
+    border: 0; border-top-right-radius: 1px;
+    position: fixed; bottom: 0; left: 0; padding: 1px;
+    overflow: hidden; width: 400px; height: 200px /*calc(100% - 2px)*/;
+    background: #17181A; transition: background .2s ease;
+    z-index: 9; visibility: hidden;
+}
+#chat:hover { background: #111113; }
+    #backdrop {
+        position: fixed; top: 0; left: 0;
+        width: calc(400px + 2px); height: 100%;
+        background: #111113;
+    }
+    #chat_restore { display: none; position: fixed; left: 1px; bottom: 1px; }
+
+#comment { width: 100%; height: auto; border: 0; background: transparent; }

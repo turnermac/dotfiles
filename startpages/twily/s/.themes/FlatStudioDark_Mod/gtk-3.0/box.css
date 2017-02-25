@@ -1,0 +1,13 @@
+/*
+ * Unofficial bug fix for gtk-3 version of this theme
+ * 
+ * Source :: http://www.jcoppens.com/soft/howto/gtk/flatstudio.en.php
+ * http://gnome-look.org/content/show.php?content=154296&forumpage=10
+ * https://developer.gnome.org/gtk3/stable/GtkContainer.html
+ *
+ */
+
+
+GtkBox, GtkGrid {
+    background-color:  transparent;
+}

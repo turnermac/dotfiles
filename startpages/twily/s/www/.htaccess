@@ -1,0 +1,18 @@
+Options -Indexes
+
+RewriteEngine On
+RewriteBase /
+
+RedirectMatch 403 ^/?s/(.*)\.php$
+RedirectMatch 403 ^/?chat/(.*)\.log$
+
+RedirectMatch 403 ^/?xdress/(.*)\.log$
+RewriteRule ^/?xdress.jpg$ /xdress [NC,L]
+
+RewriteRule ^/?d/(.*)$ /dl.php?p=$1 [NC,L]
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+
+RewriteRule ^(.*)$ /index.php?p=$1 [NC,L]
+

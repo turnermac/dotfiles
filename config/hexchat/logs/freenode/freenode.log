@@ -1,0 +1,93 @@
+**** BEGIN LOGGING AT Sun Feb 12 23:38:13 2017
+
+Feb 12 23:38:13 *	*** Looking up your hostname...
+Feb 12 23:38:13 *	*** Checking Ident
+Feb 12 23:38:13 *	*** Couldn't look up your hostname
+Feb 12 23:38:20 *	*** No Ident response
+Feb 12 23:38:20 *	Capabilities supported: account-notify extended-join identify-msg multi-prefix sasl
+Feb 12 23:38:20 *	Capabilities requested: account-notify extended-join identify-msg multi-prefix 
+Feb 12 23:38:20 *	Capabilities acknowledged: account-notify extended-join identify-msg multi-prefix 
+**** ENDING LOGGING AT Sun Feb 12 23:38:20 2017
+
+**** BEGIN LOGGING AT Sun Feb 12 23:38:20 2017
+
+Feb 12 23:38:20 *	Welcome to the freenode Internet Relay Chat Network foofom
+Feb 12 23:38:20 *	Your host is wolfe.freenode.net[193.10.255.100/6697], running version ircd-seven-1.1.4
+Feb 12 23:38:20 *	This server was created Wed Jan 18 2017 at 02:26:17 CET
+Feb 12 23:38:20 *	wolfe.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+Feb 12 23:38:20 *	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+Feb 12 23:38:20 *	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 KNOCK SAFELIST ELIST=CTU :are supported by this server
+Feb 12 23:38:20 *	WHOX CPRIVMSG CNOTICE ETRACE :are supported by this server
+Feb 12 23:38:20 *	There are 122 users and 83677 invisible on 29 servers
+Feb 12 23:38:20 *	24 :IRC Operators online
+Feb 12 23:38:20 *	5 :unknown connection(s)
+Feb 12 23:38:20 *	56836 :channels formed
+Feb 12 23:38:20 *	I have 6256 clients and 1 servers
+Feb 12 23:38:20 *	6256 6811 :Current local users 6256, max 6811
+Feb 12 23:38:20 *	83799 91483 :Current global users 83799, max 91483
+Feb 12 23:38:20 *	Highest connection count: 6812 (6811 clients) (265633 connections received)
+Feb 12 23:38:20 *	- wolfe.freenode.net Message of the Day - 
+Feb 12 23:38:20 *	- Welcome to wolfe.freenode.net in Stockholm, SE.
+Feb 12 23:38:20 *	- Thanks to http://nordu.net/ for sponsoring
+Feb 12 23:38:20 *	- this server!
+Feb 12 23:38:20 *	-  
+Feb 12 23:38:20 *	- WOLFE, GENE [1931-].  Prolific writer of short stories and
+Feb 12 23:38:20 *	- novels. His best-known work is the multi-volume novel The
+Feb 12 23:38:20 *	- Book of the New Sun. He has won multiple awards including
+Feb 12 23:38:20 *	- the Nebula Award, the World Fantasy Award, The Campell
+Feb 12 23:38:20 *	- Memorial Award and the Locus Award. He was awarded the World
+Feb 12 23:38:20 *	- Fantasy Award for lifetime achievement in 1996.
+Feb 12 23:38:20 *	-  
+Feb 12 23:38:20 *	- Welcome to freenode - supporting the free and open source
+Feb 12 23:38:20 *	- software communities since 1998.
+Feb 12 23:38:20 *	-  
+Feb 12 23:38:20 *	- By connecting to freenode you indicate that you have read and
+Feb 12 23:38:20 *	- accept our policies as set out on http://www.freenode.net
+Feb 12 23:38:20 *	- freenode runs an open proxy scanner. Please join #freenode for
+Feb 12 23:38:20 *	- any network-related questions or queries, where a number of
+Feb 12 23:38:20 *	- volunteer staff and helpful users will be happy to assist you.
+Feb 12 23:38:20 *	-  
+Feb 12 23:38:20 *	- You can meet us at FOSSCON (http://www.fosscon.org) where we get
+Feb 12 23:38:20 *	- together with like-minded FOSS enthusiasts for talks and
+Feb 12 23:38:20 *	- real-life collaboration.
+Feb 12 23:38:20 *	-  
+Feb 12 23:38:20 *	- We would like to thank Private Internet Access
+Feb 12 23:38:20 *	- (https://www.privateinternetaccess.com/) and the other
+Feb 12 23:38:20 *	- organisations that help keep freenode and our other projects
+Feb 12 23:38:20 *	- running for their sustained support.
+Feb 12 23:38:20 *	-  
+Feb 12 23:38:20 *	- In particular we would like to thank the sponsor
+Feb 12 23:38:20 *	- of this server, details of which can be found above.
+Feb 12 23:38:20 *	-  
+Feb 12 23:38:20 *	End of /MOTD command.
+Feb 12 23:38:20 *	foofom sets mode +Z on foofom
+Feb 12 23:38:20 *	foofom sets mode +i on foofom
+Feb 12 23:38:43 *	[foofom] (~anonymous@176.221.121.172): realname
+Feb 12 23:38:43 *	[foofom] wolfe.freenode.net :Stockholm, SE, EU
+Feb 12 23:38:43 *	[foofom] is using a secure connection
+Feb 12 23:38:43 *	[foofom] is connecting from *@176.221.121.172 176.221.121.172
+Feb 12 23:38:43 *	[foofom] idle 00:00:23, signon: Sun Feb 12 23:38:12
+Feb 12 23:38:43 *	[foofom] End of WHOIS list.
+**** ENDING LOGGING AT Sun Feb 12 23:39:14 2017
+
+**** BEGIN LOGGING AT Sun Feb 12 23:39:14 2017
+
+**** ENDING LOGGING AT Sun Feb 12 23:39:45 2017
+
+**** BEGIN LOGGING AT Sun Feb 12 23:39:45 2017
+
+**** ENDING LOGGING AT Sun Feb 12 23:39:56 2017
+
+**** BEGIN LOGGING AT Sun Feb 12 23:39:56 2017
+
+**** ENDING LOGGING AT Sun Feb 12 23:40:30 2017
+
+**** BEGIN LOGGING AT Sun Feb 12 23:40:30 2017
+
+Feb 12 23:47:01 *	Disconnected ()
+Feb 12 23:47:03 Perl interface unloaded
+Feb 12 23:47:03 Sysinfo plugin unloaded
+Feb 12 23:47:03 Checksum plugin unloaded
+Feb 12 23:47:03 Do At plugin unloaded
+**** ENDING LOGGING AT Sun Feb 12 23:47:03 2017
+

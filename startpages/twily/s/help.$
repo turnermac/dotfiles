@@ -1,0 +1,84 @@
+<style type="text/css">
+.link li { list-style-type: none; }
+label { color: #84bd3f; cursor: default; font-weight: bold; }
+.stuff { color: #ea75bc; font-style: italic; }
+.sep { background: #6f67e6; height: 5px; width: 5px; border-radius: 5px; margin: 5px 10px; }
+.sep.hid { visibility: hidden; }
+</style>
+
+<label>browser</label>
+<ul class="link">
+    <li class="stuff">firefox + stylish + vimperator</li>
+    <hr class="sep hid" />
+    <li><a class="btn" href="http://twily.info/firefox/" target="_self">~/firefox/</a></li>
+    <hr class="sep" />
+    <li><a class="btn" href="http://twily.info/firefox/stylish/" target="_self">~/firefox/stylish/</a></li>
+    <hr class="sep" />
+    <li><a class="btn" href="http://twily.info/.vimperator/" target="_self">~/.vimperator/</a></li>
+    <li><a class="btn" href="http://twily.info/.vimperatorrc#view" target="_self">~/.vimperatorrc#view</a></li>
+</ul>
+
+<label>music</label>
+<ul class="link">
+    <li class="stuff">ncmpcpp + { mpd | mopidy }</li>
+    <hr class="sep hid" />
+    <li><a class="btn" href="http://twily.info/.ncmpcpp/" target="_self">~/.ncmpcpp/</a></li>
+    <hr class="sep" />
+    <li><a class="btn" href="http://twily.info/.mpd/" target="_self">~/.mpd/</a></li>
+    <hr class="sep" />
+    <li><a class="btn" href="http://twily.info/.config/mopidy/" target="_self">~/.config/mopidy/</a></li>
+</ul>
+
+<label>irc</label>
+<ul class="link">
+    <li class="stuff">irssi</li>
+    <hr class="sep hid" />
+    <li><a class="btn" href="http://twily.info/.irssi/" target="_self">~/.irssi/</a></li>
+</ul>
+
+<label>wm</label>
+<ul class="link">
+    <li class="stuff">openbox + patch + tiling-scripts</li>
+    <hr class="sep hid" />
+    <li><a class="btn" href="http://twily.info/.config/openbox/" target="_self">~/.config/openbox/</a></li>
+    <li><a class="btn" href="http://twily.info/.themes/Turquoise Nights Ob/" target="_self">~/.themes/Turquoise Nights Ob/</a></li>
+    <hr class="sep" />
+    <li><a class="btn" href="http://twily.info/stuff/openbox-size-hint-patch#view" target="_self">~/stuff/openbox-size-hint-patch#view</a></li>
+    <hr class="sep" />
+    <li><a class="btn" href="http://twily.info/scripts/tiling/" target="_self">~/scripts/tiling/</a></li>
+</ul>
+
+<label>panel</label>
+<ul class="link">
+    <li class="stuff">bmpanel2 + patch</li>
+    <hr class="sep hid" />
+    <li><a class="btn" href="http://twily.info/.config/bmpanel2/" target="_self">~/.config/bmpanel2/</a></li>
+    <li><a class="btn" href="http://twily.info/.local/share/bmpanel2/" target="_self">~/.local/share/bmpanel2/</a></li>
+    <hr class="sep" />
+    <li><a class="btn" href="http://twily.info/.local/share/bmpanel2/themes/twily/_PATCHLOG_TWILY#view" target="_self">~/.local/share/bmpanel2/themes/twily/_PATCHLOG_TWILY#view</a></li>
+</ul>
+
+<label>terminal</label>
+<ul class="link">
+    <li class="stuff">urxvt + zsh</li>
+    <hr class="sep hid" />
+    <li><a class="btn" href="http://twily.info/.Xresources#view" target="_self">~/.Xresources#view</a></li>
+    <hr class="sep" />
+    <li><a class="btn" href="http://twily.info/.zshrc#view" target="_self">~/.zshrc#view</a></li>
+</ul>
+
+<label>editor</label>
+<ul class="link">
+    <li class="stuff">vim + nerdtree</li>
+    <hr class="sep hid" />
+    <li><a class="btn" href="http://twily.info/.vim/" target="_self">~/.vim/</a></li>
+    <li><a class="btn" href="http://twily.info/.vimrc#view" target="_self">~/.vimrc#view</a></li>
+</ul>
+
+<label>other</label>
+<ul class="link">
+    <li class="stuff">screenshots etc.</li>
+    <hr class="sep hid" />
+    <li><a class="btn" href="http://twily.info/stuff/" target="_self">~/stuff/</a></li>
+    <li><a class="btn" href="http://twily.info/stuff/twily.gif#view" target="_self">~/stuff/twily.gif#view</a></li>
+</ul>

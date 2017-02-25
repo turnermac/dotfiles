@@ -1,0 +1,76 @@
+theme
+	name twily
+	author twily.info
+
+panel
+    position top
+    #separator separator_wide.png
+    separator separator.png
+    #background bg.png
+    background tile.png
+    #transparent
+    #width requirement: $ xdotool search --class "panel" windowmove 48 48
+    #width 1824
+
+desktop_switcher
+	idle
+		left_corner btn_tag_idle_w.png
+		left btn_tag_idle.png
+		center btn_pressed_thin.png
+		right btn_pressed_thin.png
+		right_corner btn_pressed_right_2.png
+		font DroidSans 0
+			color 170 171 173
+			offset 0 1
+	pressed
+		left_corner btn_tag_pressed_w.png
+		left btn_tag_pressed.png
+		center btn_pressed_thin.png
+		right btn_pressed_thin.png
+		right_corner btn_pressed_right_2.png
+		font DroidSans 0
+			color 206 207 209
+			offset 0 1
+
+taskbar
+	idle
+		left btn_idle_side.png
+		center btn_idle.png
+		right btn_idle_side.png
+		#left btn_idle.png
+		#center btn_idle.png
+		#right btn_idle.png
+		font DroidSans 10
+			color 170 171 173
+			offset 15 1
+		icon_offset 5 0
+
+	pressed
+		left btn_pressed_left.png
+		center btn_pressed.png
+		right btn_pressed_right.png
+		#left btn_idle.png
+		#center btn_idle.png
+		#right btn_idle.png
+		font DroidSans 10
+			color 206 207 209
+			offset 15 1
+		icon_offset 5 0
+
+	default_icon default_icon.png
+
+systray
+	icon_size 16 16
+    icon_spacing 2
+	icon_offset 0 2
+
+clock
+	background
+		left btn_pressed_left_2.png
+		center btn_pressed.png
+		right btn_pressed.png
+
+	font Droid Sans 10
+		color 206 207 209
+		offset 0 1
+		align center

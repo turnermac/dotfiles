@@ -1,0 +1,6 @@
+mkdir timelapse && cd timelapse
+d=0; while :; do e=0000$d && scrot -czd 1 "${e: -5}.png" && ((d++)); done
+ffmpeg -framerate 12 -pattern_type glob -i '*.png' -c:v libx264 -pix_fmt yuv420p out.mkv
+ffmpeg -i out.mkv -c:v libvpx -qmin 3 -qmax 16 -preset ultrafast -c:a libvorbis out.webm
+rm -f *.png
+

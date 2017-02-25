@@ -1,0 +1,129 @@
+<?php
+    $tNow=time();
+    $timespan=$tNow-(60*60*24);
+
+    $fh=fopen($analytics,'r');
+    $pos=-1;
+    $cLine='';
+    $list=array();
+
+    while(fseek($fh,$pos,SEEK_END)!=-1) { // Read file backwards until < $timespan
+        $char=fgetc($fh);
+
+        if($char=="\n") {
+            if($cLine<>"") {
+                if(substr($cLine,0,strpos($cLine,"\v"))>=$timespan) {
+                    $cData=explode("\v",$cLine);
+                    $list[]=array($cData[1],$cData[0]);
+                    $cLine='';
+                } else {
+                    break;
+                }
+            }
+        } else {
+            $cLine=$char.$cLine;
+        }
+
+        $pos--;
+    }
+
+    sort($list);
+
+    $relist=array();
+    $lastFile=$list[0][0];
+    $fileCounter=1;
+
+    for($i=1;$i<=count($list);$i++) { // Put together repeating files to find number of hits
+        if($list[$i][0]==$lastFile) {
+            $fileCounter++;
+        } else {
+            $relist[]=array($fileCounter,$lastFile);
+            $fileCounter=1;
+        }
+
+        $lastFile=$list[$i][0];
+    }
+
+    rsort($relist);
+
+    echo "<script type=\"text/javascript\">\n".
+         "var hMax=".$relist[0][0].";\n".
+         "var relist=[\n";
+
+    for($i=0;$i<count($relist) && $i<50;$i++) { // Print top 50 files sorted by hits
+        echo "    [".$relist[$i][0].",\"".$relist[$i][1]."\"],\n";
+    }
+
+    echo "];\n".
+         "</script>\n";
+?>
+<style type="text/css">
+#aTitle    { width: 100%; text-align: center; }
+#sorting   { float: right; }
+
+#aTable    { display: table; width: 100%; }
+.aRow      { display: table-row; white-space: nowrap; }
+    .aRow:hover .aHits .aProgress { background: #8c86fc; }
+    .aRow:hover .aFile { background: #27282B; }
+.aFile     { display: table-cell; padding-right: 4px; transition: .2s ease; }
+    .aFile a   { display: inline-block; width: 100%; }
+.aHits     { display: table-cell; width: 100%; }
+.aProgress {
+    display: block; width: 100%; overflow: visible;
+    padding: 0 4px; background: #84bd3f; color: #17181A;
+    box-sizing: border-box; transition: .2s ease;
+}
+</style>
+<script type="text/javascript">
+function printl() {
+    var hPercent,hText="",printstr="";
+    for(var i=0;i<relist.length;i++) {
+        hText=(relist[i][0]!=1)?" hits":"hit";
+        hPercent=Math.floor(relist[i][0]*100/hMax);
+
+        printstr+="<div class=\"aRow\"><div class=\"aFile\"> \
+"+                "<a href=\"/"+relist[i][1]+"#view\" target=\"_self\"> \
+"+                "~/"+relist[i][1]+"</a></div><div class=\"aHits\"> \
+"+                "<div class=\"aProgress\" style=\"width: "+hPercent+"%;\"> \
+"+                relist[i][0]+hText+"</div></div></div>\n";
+    }
+
+    $('aTable').innerHTML=printstr;
+}
+
+function resort(x) {
+    switch(x) {
+        case "hits":
+            relist.sort(function(a,b) {
+                if(a[0]<b[0]) return 1;
+                if(a[0]>b[0]) return -1;
+            });
+            break;
+        case "names":
+            relist.sort(function(a,b) {
+                if(a[1]<b[1]) return -1;
+                if(a[1]>b[1]) return 1;
+            });
+            break;
+    }
+
+    printl();
+}
+</script>
+<br />
+<div id="aTitle">Top 50 files last 24 hours</div>
+<div id="sorting">
+    <label>Sort by </label>
+    <select onchange="resort(this.value)">
+        <option value="names">names</option>
+        <option value="hits" selected="selected">hits</option>
+    </select>
+</div>
+<br />
+<br />
+<br />
+<div id="aTable"></div>
+<br />
+<script type="text/javascript">
+resort("hits");
+</script>

@@ -1,0 +1,102 @@
+### SOURCE:: git clone https://github.com/nsf/bmpanel2
+###
+### Download source and apply optional patches {Recommended: 1,2,3,5}
+###
+### Install
+###     $ cmake -DCMAKE_INSTALL_PREFIX=/usr -DCMAKE_BUILD_TYPE=RELEASE .
+###     $ make
+###     $ sudo make install
+###
+### --------------------------------------------
+###
+### bmpanel2: patchlog -- twily
+
+
+### -------------------------------------------- {1}
+###
+### Add missing feature -> minimized state indication [FIXED]
+
+bmpanel2/widget-taskbar.c
+    -294:   int highlighted)
+    +294:   int highlighted, int iconified)
+
+    -369:   draw_text(cr, layout, font, task->name.buf, xx, 0, textw, height, 1);
+    +369:   char *buffer = malloc(strlen(task->name.buf)+3);
+    +370:   buffer[0]='[';
+    +371:   buffer[strlen(task->name.buf)+1]=']';
+    +372:   buffer[strlen(task->name.buf)+2]='\0';
+    +373:   int i;
+    +374:   for(i=1;i<strlen(task->name.buf)+1;i++)
+    +375:       buffer[i]=task->name.buf[i-1];
+    +376:   
+    +377:   if(iconified)
+    +378:       draw_text(cr, layout, font, buffer, xx, 0, textw, height, 1);
+    +379:   else
+    +380:       draw_text(cr, layout, font, task->name.buf, xx, 0, textw, height, 1);
+
+    +575:   \n
+    +576:   \n
+    +576:   int iconified=0;
+    +577:   if(x_is_window_iconified(c, t->win))
+    +578:       iconified=1;
+    +579:   else
+    +580:       iconified=0;
+
+    -584:   x, taskw, t->win == tw->active, i == tw->highlighted);
+    +584:   x, taskw, t->win == tw->active, i == tw->highlighted, iconified);
+    
+
+### -------------------------------------------- {2}
+###
+### "KeyError, item" returned syntax error [DONE]
+
+bmpanel2/extra/py/bmpanel2.py
+    -144:   raise KeyError, item
+    +144:   raise KeyError(item)
+
+
+### -------------------------------------------- {3}
+###
+### Change clock format [DONE]
+
+bmpanel2/widget-clock.c
+    -35:    ct->time_format = parse_string("time_format", e, "%H:%M:%S");
+    +35:    ct->time_format = parse_string("time_format", e, "%a %b %d ~ %H:%M");
+
+
+### -------------------------------------------- {4}
+###
+### Remove separator between dswitcher and taskbar [DONE]
+
+bmpanel2/panel.c
+    -506:   if (panel->theme.separator && panel->widgets_n - 1 != i)
+    +506:   if (panel->theme.separator && panel->widgets_n - 1 != i && i != 0)
+
+    -455:   if (w->width && !w->no_separator)
+    +455:   if (w->width && !w->no_separator && i != 0)
+
+
+### -------------------------------------------- {5}
+###
+### Fix 1 px nonclickable line infront of dswitcher [DONE]
+
+bmpanel2/panel.c
+    -418:   int x = 0;
+    +418:   int x = -1;
+
+
+### -------------------------------------------- {6}
+###
+### Remove separator between systemtray and clock [DONE]
+
+bmpanel2/panel.c
+    -506:   if (panel->theme.separator && panel->widgets_n - 1 != i)
+    +506:   if (panel->theme.separator && panel->widgets_n - 1 != i && i != panel->widgets_n - 1)
+
+    -466:   if (w->width && !w->no_separator)
+    +466:   if (!w->no_separator && i != panel->widgets_n - 1)
+
+
+### -------------------------------------------- {7}
+###
+### 

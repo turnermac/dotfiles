@@ -1,0 +1,9 @@
+/*
+ * New style:  'image'
+ * Applies to: 'URLs matching the regexp'
+ * URL:        '(https?://|file:///)(.*)(jpeg|jpg|gif|png|apng|svg|bmp|webm|webp)'
+ */
+
+body { background: #000 !important; }
+
+/* End 'image' */

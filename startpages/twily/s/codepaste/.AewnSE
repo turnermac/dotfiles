@@ -1,0 +1,15 @@
+    #PopupAutoCompleteRichResult * { font-family: var(--url-fonts) !important; font-size: var(--url-font-size) !important; }
+    .ac-type-icon, .ac-ellipsis-after { width: 0 !important; height: 0 !important; min-width: 0 !important; }
+    .autocomplete-richlistitem > * { display: block !important; width: 50% !important; }
+    .ac-url-box { float: right !important; text-align: left !important; margin: 0 !important; }
+    .ac-title-box { float: left !important; text-align: right !important; }
+    .ac-site-icon { position: relative !important; top: 2px !important; }
+    .autocomplete-richlistitem {
+        height: var(--url-height) !important; width: 100% !important;
+        background-color: var(--bg-light)!important;
+        position: absolute !important; white-space: nowrap !important;
+        padding: 0 !important;
+    }
+    .autocomplete-richlistitem[selected="true"] { background-color: var(--bg-dark) !important; }
+    richlistbox { margin: 0 0 !important; }
+    #PopupAutoCompleteRichResult { margin: 0 3px !important; }

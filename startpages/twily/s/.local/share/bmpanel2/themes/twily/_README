@@ -1,0 +1,24 @@
+BMPANEL2 THEME - twily.info
+
+
+install theme files to "~/.local/share/bmpanel2/themes/twily/*"
+
+follow the patching instructions in "_PATCHLOG_TWILY"
+
+execute bmpanel2 with --theme=twily
+
+
+
+-------------------------
+
+images / gimp settings for {bg,separtor_wide}
+
+    drop shadow
+        offset x 0
+        offset y 3
+        blur radius 23
+        color rgb(7,7,10) #07070A
+        opacity: 75
+        no resizing
+
+    crop image inside outline

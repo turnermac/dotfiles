@@ -1,0 +1,140 @@
+<style type="text/css">
+.list { display: block; width: 100%; }
+.time { float: right; }
+.center { display: block; width: 100%; text-align: center; }
+#perpage { float: left; }
+#sorting { float: right; }
+#filelist { width: 100%; }
+#q {
+    display: inline-block; width: 256px;
+    padding: 5px 8px; margin: 0;
+    border: 0; box-sizing: border-box; border-radius: 1px;
+    background: #27282B; color: #AAABAD;
+}
+</style>
+
+<br />
+<center><input type="text" id="q" value="" placeholder="Search..." autocomplete="off" /></center>
+<br />
+<div id="navT" class="center"></div>
+<div id="perpage">
+    <select onchange="relist(this.value)">
+        <option value="25" selected="selected">25</option>
+        <option value="50">50</option>
+        <option value="100">100</option>
+        <option value="65535">*</option>
+    </select>
+    <label> files per page.</label>
+</div>
+<div id="sorting">
+    <label>Sort by </label>
+    <select onchange="resort(this.value)">
+        <option value="names">names</option>
+        <option value="namesR">names (R)</option>
+        <option value="dates" selected="selected">dates</option>
+        <option value="datesR">dates (R)</option>
+    </select>
+</div>
+<br />
+<br />
+<br />
+<div id="filelist"></div>
+<br />
+<div id="navB" class="center"></div>
+<br />
+
+<script type="text/javascript">
+var fList=[
+<?php
+    $files=new RecursiveIteratorIterator(new RecursiveDirectoryIterator($loc),RecursiveIteratorIterator::SELF_FIRST);
+
+    $i=0;
+    $list=array();
+    foreach($files as $file) {
+        if(is_file($file)) {
+            $mtime=time()-filemtime($file);
+            list($cmtime,$color)=colortime($mtime);
+
+            $data=array(substr($file,2),$cmtime,$color,$mtime);
+            $list[$i]=$data;
+
+            $i++;
+        }
+    }
+
+    sort($list);
+
+    for($i=0;$i<count($list)-1;$i++) {
+        echo "    [\"".$list[$i][0]."\",\"".$list[$i][1]."\",\"".$list[$i][2]."\",".$list[$i][3]."],\n";
+    }
+?>
+];
+
+var selected=1;
+var perpage,i,qA=[];
+
+function view(x) {
+    selected=x-1;
+    var pages=Math.ceil(qA.length/perpage);
+    var begin=selected*perpage;
+
+    $('navT').innerHTML="";
+    $('navB').innerHTML="";
+    for(i=1;i<=pages;i++) {
+        $('navT').innerHTML+="<a href='#view' class='btn' id='btn_"+i+"T' onclick='view("+i+");' >"+i+"</a>";
+        $('navB').innerHTML+="<a href='#view' class='btn' id='btn_"+i+"B' onclick='view("+i+");' >"+i+"</a>";
+    }
+    $('btn_'+x+'T').style.background="\#27282B";
+    $('btn_'+x+'B').style.background="\#27282B";
+    
+    $('filelist').innerHTML="";
+    for(var i=begin;i<begin+perpage;i++) {
+        $('filelist').innerHTML+="<a class=\"list\" href=\"/"+qA[i][0]+"#view\" target=\"_self\"> \
+"+                               "~/"+qA[i][0]+" \
+"+                               "<span class=\"time\" style=\"color: "+qA[i][2]+";\">"+qA[i][1]+"</span> \
+"+                               "</a>\n";
+    }
+}
+
+function find(q,x) {
+    qA=[];
+    var c=0;
+    for(i=0;i<fList.length;i++) {
+        if(fList[i][0].indexOf(q)>-1 || fList[i][1].indexOf(q)>-1 || fList[i][2].indexOf(q)>-1) {
+            qA[c]=fList[i].slice();
+            c++;
+        }
+    }
+
+    view(x);
+}
+
+function resort(x) {
+    switch(x) {
+        case "names":
+            fList.sort(function(a,b) { if(a[0]<b[0]) return -1; if(a[0]>b[0]) return 1; });
+            break;
+        case "dates":
+            fList.sort(function(a,b) { if(a[3]<b[3]) return -1; if(a[3]>b[3]) return 1; });
+            break;
+        case "namesR":
+            fList.sort(function(a,b) { if(a[0]<b[0]) return 1; if(a[0]>b[0]) return -1; });
+            break;
+        case "datesR":
+            fList.sort(function(a,b) { if(a[3]<b[3]) return 1; if(a[3]>b[3]) return -1; });
+            break;
+    }
+
+    relist(perpage);
+}
+
+function relist(x) {
+    perpage=parseInt(x);
+    find($('q').value,1);
+}
+perpage=25;
+resort("dates");
+
+$('q').addEventListener('change',function() { find($('q').value,1); });
+$('q').addEventListener('keyup', function() { find($('q').value,1); });
+</script>

@@ -1,0 +1,51 @@
+/*
+ *  Author:      Twily                           2016
+ *  Description: Vivaldi Style file & Setting choices
+ *  
+ *  Usage:
+ *      Save this file as 'twily.css' in
+ *          Linux: /opt/vivaldi/resources/vivaldi/style/
+ *          Win:   /AppData/Local/Vivaldi/Application/<version>/resources/vivaldi/style/
+ *      Edit 'common.css' and add '@import "twily.css";'
+ *
+ *  Settings (Optional):
+ *      Appearance  > Hide Status Bar
+ *      Themes      > Dark Theme
+ *      Start Page  > Custom BG, Max 4 Col
+ *      Tabs        > Right (w/o Close Button & Thumbnails)
+ *      Address Bar > Buttom (w/o Fast Forward/Rewind)
+ *      Search      > Disable Search Field, Set Engine
+ *
+ *  Keyboard (Optional):
+ *      Enable Single Key Shortcuts
+ *      View > Bookmarks Bar - Bind 'B'
+ *      View > Status Bar - Bind 'F10'
+ *      Tab > New Tab - Bind 'T'
+ *      Tab > Clone Tab - Bind 'Shift T'
+ *      Page > Focus Address Field - Bind 'O'
+ *      Page > Reload Page - Bind 'R'
+ *      Page > Force Page Reload - Bind 'Shift R'
+ *      Page > Page Up - Bind 'K'
+ *      Page > Page Down - Bind 'J'
+ *      Page > Scroll Page to Top - Bind 'G'
+ *      Page > Scroll Page to Bottom - Bind 'Shift G'
+ *      Page > Find in Page - Bind '/'
+ *
+ *  Extensions (Optional):
+ *      uBlock Origin
+ *      Dark Reader
+ *      Cloudy Calculator
+ *      Stylish (Hide button)
+ *
+ *  More:
+ *      F2 > Enter 'Set(tings)', 'Ext(ensions)' etc.
+ *      F4 > Toggle Side Bar
+ *      Alt > Open Menu
+ *      Customize this file further by analyzing common.css
+ *          (Readable version http://twily.info/vivaldi/common.css)
+ */
+
+#header { min-height: 0 !important; }
+#titlebar, #header .vivaldi { display: none !important; }
+#tabs-container { padding: 0 !important; }
+.stacks-on .tab-strip .tab .tab-group-indicator .tab-indicator { border-top: 0 !important; }

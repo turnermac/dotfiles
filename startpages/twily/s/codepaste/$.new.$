@@ -1,0 +1,87 @@
+<?php
+    error_reporting(0);
+
+    $redirect="";
+    if(isset($_POST['codepost'])) {
+        $data=$_POST['codepost'];
+
+        if(strlen($data)>0) {
+            $path=__DIR__."/";
+            $url=stripslashes(htmlspecialchars($_POST['codepath']));
+            $url=substr($url,0,strrpos($url,"/")+1);
+
+            $namelen=6;
+            $keys=array_merge(range('a','z'),range('A','Z'));
+
+            $key='.';
+            for($i=0;$i<$namelen;$i++) $key.=$keys[array_rand($keys)];
+
+            while(file_exists($path.$key)) {
+                $key='.';
+                for($i=0;$i<$namelen;$i++) $key.=$keys[array_rand($keys)];
+            }
+
+            $fh=fopen($path.$key,'w');
+            fwrite($fh,$data);
+            fclose($fh);
+
+            $redirect=$url.$key."#view";
+        }
+    }
+?>
+<style type="text/css">
+.center { display: block; width: 100%; text-align: center; }
+#newcode {
+    width: 100%; height: 300px;
+    resize: vertical;
+    margin: 0; padding: 4px; border: 0;
+    background: #27282B; color: #CECFD1;
+    box-sizing: border-box;
+}
+</style>
+<script type="text/javascript">
+<?php echo "var redirect=\"".$redirect."\";\n" ?>
+if(redirect!="") window.location=redirect;
+
+function postcode() {
+    var form=document.createElement('form');
+    form.setAttribute("action",window.location.href);
+    form.setAttribute("method","post");
+    form.setAttribute("target","_self");
+
+    var data={
+        codepost:   document.getElementById('newcode').value,
+        codepath:   window.location.href
+    }
+
+    for(key in data) {
+        var hidden=document.createElement('input');
+        hidden.setAttribute("type","hidden");
+        hidden.setAttribute("name",key);
+        hidden.setAttribute("value",data[key]);
+
+        form.appendChild(hidden);
+    }
+
+    document.body.appendChild(form);
+    form.submit();
+}
+
+function clearcode() {
+    document.getElementById('newcode').value="";
+}
+</script>
+
+<br />
+<div class="center">
+    New code snippet:
+    <br />
+    <br />
+    <textarea id="newcode"></textarea>
+    <br />
+    <br />
+    <a class="btn" href="javascript:clearcode();" target="_self">Clear</a>
+    <a class="btn" href="javascript:postcode();" target="_self">Save</a>
+</div>
+<br />
+

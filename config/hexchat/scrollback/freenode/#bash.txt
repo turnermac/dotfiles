@@ -1,0 +1,11 @@
+T 1486939237 19*	Now talking on 22#bash
+T 1486939237 22*	Topic for 22#bash is: FAQ: http://mywiki.wooledge.org/BashFAQ | Guide: http://mywiki.wooledge.org/BashGuide | Ref: http://gnu.org/s/bash/manual | http://wiki.bash-hackers.org/ | http://mywiki.wooledge.org/Quotes | Check your script: http://www.shellcheck.net/ | Mailing list: https://lists.gnu.org/mailman/listinfo/help-bash | Devel: http://xrl.us/bmodjy
+T 1486939237 22*	Topic for 22#bash set by 26geirha (24Tue Oct 18 22:18:38 2016)
+T 1486939254 -18ChanServ-	[#bash] Welcome to #bash, we discuss the GNU bash shell.  Be explicit if your question is about another shell.  Don't trust the Internet on bash, learn from the resources in the topic instead.
+T 1486939279 24*	mrrhq-mobile has quit (Read error: Connection reset by peer)
+T 1486939429 24*	JeanCarloMachado has quit (Ping timeout: 240 seconds)
+T 1486939458 24*	whippythellama has quit (Ping timeout: 255 seconds)
+T 1486939518 24*	bancho has quit (Ping timeout: 240 seconds)
+T 1486939621 20*	Disconnected (20)
+T 1486939623 FiSHLiM plugin unloaded
+T 1486939623 Python interface unloaded

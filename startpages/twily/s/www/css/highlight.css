@@ -1,0 +1,33 @@
+/* Tomorrow Night Bright Theme */
+/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+/* */
+/* Edited by Twily */
+.twily-comment, pre .comment, pre .title {
+    color: #6f67e6; }
+
+.twily-cyan, pre .variable, pre .attribute, pre .tag, pre .regexp, pre .constant, pre .xml .tag .title, pre .xml .pi,
+pre .xml .doctype, pre .html .doctype, pre .css .id, pre .css .class, pre .css .pseudo {
+    color: #68e0b8; }
+
+.twily-purple, pre .number, pre .preprocessor, pre .built_in, pre .literal, pre .params, pre .constant {
+    color: #d753a4; }
+
+.twily-green, pre .class, pre .class .title, pre .css .rules .attribute {
+    color: #84bd3f; }
+
+.twily-red, pre .string, pre .value, pre .inheritance, pre .header, pre .symbol, pre .xml .cdata, pre .css .hexcolor {
+    color: #d54a56; }
+
+.twily-white, pre .function, pre .python .decorator, pre .python .title, pre .function .title, pre .title .keyword,
+pre .perl .sub, pre .javascript .title, pre .coffeescript .title {
+    color: #cecfd1; }
+
+.twily-yellow, pre .keyword, pre .javascript .function {
+    color: #cb873d; }
+
+pre code {
+    min-width: 100%;
+    overflow-y: hidden; overflow-x: scroll;
+    font-family: "Droid Sans Mono", "DejaVu Sans Mono", "Liberation Mono", "Lucida Console", Monospace;
+}

@@ -1,0 +1,35 @@
+/* AGENT_SHEET */
+@-moz-document url-prefix(http://), url-prefix(https://), url-prefix(chrome://liberator/), url-prefix(file:///) {
+    /* SCROLLBAR */
+    scrollbar[orient="vertical"], scrollbar thumb[orient="vertical"],
+    scrollbar[orient="horizontal"], scrollbar thumb[orient="horizontal"] {
+        display: block !important; /* block | none (enable scrollbar) */
+    }
+    
+    /*
+       Uncomment section below to apply style
+    
+       (width/height is controlled by the margin)
+    */
+    /**/
+    scrollbar > slider { -moz-appearance: none !important; }
+    
+    scrollbar[orient="vertical"] { margin: 0 -10px 0 0 !important; }
+    scrollbar[orient='vertical'] > slider { background: #27282B !important; max-width: 100% !important; }
+    scrollbar[orient='vertical'] > slider > thumb {
+        -moz-appearance: none !important;
+        background: #17181A !important; border: 0 !important; width: 100% !important;
+    }
+    
+    scrollbar[orient="horizontal"] { margin: 0 0 -10px 0 !important; }
+    scrollbar[orient='horizontal'] > slider { background: #27282B !important; max-height: 100% !important; }
+    scrollbar[orient='horizontal'] > slider > thumb {
+        -moz-appearance: none !important;
+        background: #17181A !important; border: 0 !important; height: 100% !important;
+    }
+    
+    scrollbar > scrollbarbutton { -moz-appearance: none !important; border: none !important; background: none !important; }
+    scrollbar[orient='vertical'] > scrollbarbutton { min-height: 0 !important; }
+    scrollbar[orient='horizontal'] > scrollbarbutton { min-width: 0 !important; }
+    /**/
+}

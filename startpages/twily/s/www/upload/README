@@ -1,0 +1,28 @@
+Upload page intended for private use
+
+-File upload & browse
+-Live text upload
+
+
+
+Security: htpasswd
+
+Command to generate the .htpasswd file:
+$ htpasswd -c .htpasswd username
+
+Place the file in the websites root directory
+and edit .htaccess to match your path.
+
+(Note: htaccess and htpasswd needs a '.'
+infront of them).
+
+
+
+Upload size
+
+To increase the upload size edit your php.ini 
+file and change the variables
+-memory_limit
+-post_max_size
+-upload_max_filesize
+to eg.: 256M

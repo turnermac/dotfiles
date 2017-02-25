@@ -1,0 +1,1 @@
+for (i=0;;i++); do wget -q --show-progress https://$(curl -s "https://derpibooru.org/search.json?q=id_number:$i" | grep -o "derpicdn.net/img/view[a-z 0-9 / _ + . % -]*" | head -n1); done

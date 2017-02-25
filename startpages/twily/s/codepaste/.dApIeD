@@ -1,0 +1,58 @@
+> time curl -s --verbose https://repo.parabola.nu/ > dev/null
+*   Trying 80.87.131.232...
+* Connected to repo.parabola.nu (80.87.131.232) port 443 (#0)
+* ALPN, offering http/1.1
+* Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+* successfully set certificate verify locations:
+*   CAfile: /etc/ssl/certs/ca-certificates.crt
+  CApath: none
+* TLSv1.2 (OUT), TLS header, Certificate Status (22):
+} [5 bytes data]
+* TLSv1.2 (OUT), TLS handshake, Client hello (1):
+} [512 bytes data]
+* TLSv1.2 (IN), TLS handshake, Server hello (2):
+{ [113 bytes data]
+* TLSv1.2 (IN), TLS handshake, Certificate (11):
+{ [2922 bytes data]
+* TLSv1.2 (IN), TLS handshake, Server key exchange (12):
+{ [333 bytes data]
+* TLSv1.2 (IN), TLS handshake, Server finished (14):
+{ [4 bytes data]
+* TLSv1.2 (OUT), TLS handshake, Client key exchange (16):
+} [70 bytes data]
+* TLSv1.2 (OUT), TLS change cipher, Client hello (1):
+} [1 bytes data]
+* TLSv1.2 (OUT), TLS handshake, Finished (20):
+} [16 bytes data]
+* TLSv1.2 (IN), TLS change cipher, Client hello (1):
+{ [1 bytes data]
+* TLSv1.2 (IN), TLS handshake, Finished (20):
+{ [16 bytes data]
+* SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256
+* ALPN, server accepted to use http/1.1
+* Server certificate:
+*  subject: CN=parabola.nu
+*  start date: May 22 04:34:00 2016 GMT
+*  expire date: Aug 20 04:34:00 2016 GMT
+*  subjectAltName: host "repo.parabola.nu" matched cert's "repo.parabola.nu"
+*  issuer: C=US; O=Let's Encrypt; CN=Let's Encrypt Authority X3
+*  SSL certificate verify ok.
+} [5 bytes data]
+> GET / HTTP/1.1
+> Host: repo.parabola.nu
+> User-Agent: curl/7.49.0-DEV
+> Accept: */*
+> 
+{ [5 bytes data]
+< HTTP/1.1 200 OK
+< Server: nginx/1.10.0
+< Date: Fri, 03 Jun 2016 02:20:36 GMT
+< Content-Type: text/html; charset=UTF-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< X-Powered-By: PHP/7.0.6
+< Strict-Transport-Security: max-age=15768000
+< 
+{ [8762 bytes data]
+* Connection #0 to host repo.parabola.nu left intact
+curl -s --verbose https://repo.parabola.nu/ > /dev/null  0.04s user 0.00s system 0% cpu 52.393 total

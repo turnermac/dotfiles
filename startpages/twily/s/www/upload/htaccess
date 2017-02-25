@@ -1,0 +1,12 @@
+Options -Indexes
+
+RedirectMatch 403 ^/?files/(.*)\.php$
+RedirectMatch 403 ^/?files/(.*)\.pl$
+RedirectMatch 403 ^/?files/(.*)\.rb$
+RedirectMatch 403 ^/?files/(.*)\.asp$
+RedirectMatch 403 ^/?files/(.*)\.jsp$
+
+AuthType Basic
+AuthName "restricted area"
+AuthUserFile /home/guest/4cdl-images/upload/.htpasswd
+require valid-user

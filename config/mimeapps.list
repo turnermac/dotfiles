@@ -1,0 +1,25 @@
+[Default Applications]
+x-scheme-handler/http=userapp-Firefox-RJ7WVY.desktop
+x-scheme-handler/https=userapp-Firefox-RJ7WVY.desktop
+x-scheme-handler/ftp=userapp-Firefox-RJ7WVY.desktop
+x-scheme-handler/chrome=userapp-Firefox-RJ7WVY.desktop
+text/html=userapp-Firefox-RJ7WVY.desktop
+application/x-extension-htm=userapp-Firefox-RJ7WVY.desktop
+application/x-extension-html=userapp-Firefox-RJ7WVY.desktop
+application/x-extension-shtml=userapp-Firefox-RJ7WVY.desktop
+application/xhtml+xml=userapp-Firefox-RJ7WVY.desktop
+application/x-extension-xhtml=userapp-Firefox-RJ7WVY.desktop
+application/x-extension-xht=userapp-Firefox-RJ7WVY.desktop
+
+[Added Associations]
+x-scheme-handler/http=userapp-Firefox-QUEPVY.desktop;userapp-Firefox-RJ7WVY.desktop;
+x-scheme-handler/https=userapp-Firefox-QUEPVY.desktop;userapp-Firefox-RJ7WVY.desktop;
+x-scheme-handler/ftp=userapp-Firefox-QUEPVY.desktop;userapp-Firefox-RJ7WVY.desktop;
+x-scheme-handler/chrome=userapp-Firefox-QUEPVY.desktop;userapp-Firefox-RJ7WVY.desktop;
+text/html=userapp-Firefox-QUEPVY.desktop;userapp-Firefox-RJ7WVY.desktop;
+application/x-extension-htm=userapp-Firefox-QUEPVY.desktop;userapp-Firefox-RJ7WVY.desktop;
+application/x-extension-html=userapp-Firefox-QUEPVY.desktop;userapp-Firefox-RJ7WVY.desktop;
+application/x-extension-shtml=userapp-Firefox-QUEPVY.desktop;userapp-Firefox-RJ7WVY.desktop;
+application/xhtml+xml=userapp-Firefox-QUEPVY.desktop;userapp-Firefox-RJ7WVY.desktop;
+application/x-extension-xhtml=userapp-Firefox-QUEPVY.desktop;userapp-Firefox-RJ7WVY.desktop;
+application/x-extension-xht=userapp-Firefox-QUEPVY.desktop;userapp-Firefox-RJ7WVY.desktop;

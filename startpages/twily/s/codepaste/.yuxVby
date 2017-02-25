@@ -1,0 +1,17 @@
+    /* --- Comment out the section below to make the url-bar visible --- */
+    /*
+    #nav-bar {
+        width: 0 !important; height: 0 !important;
+        position: fixed !important; left: -1px !important; top: -1px !important;
+        overflow: hidden !important; visibility: hidden !important;
+    }
+    /**/
+    #navigator-toolbox > #nav-bar {
+        opacity: 0 !important;  overflow: hidden !important;
+        height: 0 !important; min-height: 0 !important; border-top: 0 !important;
+        transition: .2s ease;
+    }
+    #navigator-toolbox:hover > #nav-bar {
+        opacity: 1 !important; overflow: auto !important;
+        height: var(--url-height) !important;
+    }

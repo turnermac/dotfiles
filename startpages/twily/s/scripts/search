@@ -1,0 +1,26 @@
+#!/bin/bash
+#
+# Author:      Twily                           2016
+# Description: Used for searching through irc logs.
+# Usage:       $ ./search 'tag1|tag2' tag3 tag4 ...
+#
+
+DIR="."
+
+multi() {
+    if [ $# -gt 1 ]; then
+        shift
+        for var in "$@"; do
+            str="$str grep -i $var |"
+        done
+    fi
+    str="$str grep ''"
+    eval $str
+}
+search() {
+    find $DIR -type f | xargs grep -iE $1 | multi $@ | sort -r | less
+}
+
+search $@
+
+exit 0

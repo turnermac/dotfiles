@@ -1,0 +1,40 @@
+html,body { 
+    margin: 0; padding: 0; width: 100%; height: 100%;
+    font-family: "Droid Sans", "Liberation Sans", "DejaVu Sans", "Segoe UI"; font-size: 10pt;
+    background: transparent; color: #aaabad; overflow-x: hidden; overflow-y: auto;
+    transition: color .2s ease;
+}
+form       { margin: 0; padding: 0; }
+*:focus    { outline: none !important; }
+*          { box-sizing: border-box; }
+
+#qbox       { position: absolute; top: 0; right: 0; color: #606163; background: transparent; z-index: 2; visibility: hidden; }
+body:hover #qbox { visibility: visible; }
+    #qbox:hover { background: #111113; }
+    #qbox label { float: right; padding: 0 3px; }
+    #qbox > ul    { margin: 0; padding: 0; display: none; position: relative; z-index: 1; }
+        #qbox:hover > ul { display: block; z-index: 3; }
+    #qbox ul li    { list-style-type: none; white-space: nowrap; }
+        #qbox ul li:hover { background: #27282B; }
+
+    #qbox a:link, #qbox a:visited { color: #aaabad; display: block; width: 100%; padding: 0 3px; text-decoration: none;  }
+    #qbox a:hover, #qbox a:active, .btn:hover { background: #84BD3F; color: #111113; }
+
+#container { position: relative; width: 100%; height: calc(100% - 1.6em); overflow-x: hidden; overflow-y: auto; border: 0; }
+#wrapper   { position: relative; height: 100%; }
+#log       { position: absolute; bottom: 0; left: 0; width: 100%; max-height: 100%; word-wrap: break-word; }
+    .past      { opacity: .5; }
+
+#log a:link, #log a:visited { color: #aaabad; }
+#log a:hover, #log a:active { color: #cecfd1; }
+
+#wrapper #log span:not(.past) { cursor: pointer; }
+
+.btn               { float: right; width: 75px; cursor: pointer; transition: .2s ease; }
+.cmd               { font-weight: bold; cursor: pointer; text-decoration: none; }
+    .space             { display: inline-block; width: 75px; }
+
+input[type="text"]       { width: calc(100% - 75px); transition: .2s ease; }
+input[type="text"], .btn { border: 0; color: #aaabad; border-radius: 1px; }
+input[type="text"]:focus { background: #111113; }
+input                    { height: 1.6em; border-width: 0; background: #27282B; }

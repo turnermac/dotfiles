@@ -1,0 +1,16 @@
+html,body { background: #27282B; color: #AAABAD; }
+body { padding: 16px; }
+
+a:hover, a:active { text-decoration: underline; }
+
+.tbl-td { white-space: nowrap; padding: 0 2px; }
+
+.tbl-tr:nth-child(1) .tbl-td { border-bottom: 2px solid #606163; padding-bottom: .2em; }
+.tbl-tr:nth-child(2) .tbl-td { padding-top: .2em; }
+
+.tbl-tr:nth-child(odd) { background: #2E2F33; }
+.tbl-tr:nth-child(1) { background: #27282B; }
+
+.tbl-tr:hover:not(.nohover) { background: #17181A; }
+
+.icon { max-width: 16px; max-height: 16px; padding-right: .2em; }

@@ -1,0 +1,86 @@
+<style type="text/css">
+#cmtcont { display: block; width: 100%; overflow: auto; }
+#cmtlist { display: table; width: 100%; }
+.cmtr { display: table-row; }
+.cmtd { display: table-cell; padding: 0px; text-align: left; white-space: nowrap; }
+.admin { color: #c769a0 !important; }
+.name { color: #6d67d1; }
+.file { color: #606163; }
+#cTitle { width: 100%; text-align: center; }
+.time { text-align: right; }
+</style>
+
+<br />
+<div id="cTitle">Last 50 comments</div>
+<br />
+<div id="cmtcont">
+<div id="cmtlist">
+<?php
+    $files=new RecursiveIteratorIterator(new RecursiveDirectoryIterator($loc),RecursiveIteratorIterator::SELF_FIRST);
+
+    $i=0;
+    $list=array();
+    foreach($files as $file) {
+        if(is_file($file)) {
+            $data=array(hash('sha256',substr($file,2)),substr($file,2));
+            $list[$i]=$data;
+
+            $i++;
+        }
+    }
+
+    $comments=array();
+    $cmt="comment/cmt/";
+    if($handle=opendir($cmt)) {
+        while(false!==($entry=readdir($handle))) {
+            if($entry!="." && $entry!="..") {
+                if(is_file($cmt.$entry)) {
+                    for($i=0;$i<count($list);$i++) {
+                        $fpath="";
+                        if(substr($entry,0,strpos($entry,"."))==$list[$i][0]) {
+                            $fpath=$list[$i][1];
+                            break;
+                        }
+                    }
+
+                    $cmtread=readf($cmt.$entry);
+                    $cmtlines=explode("\n",$cmtread);
+
+                    for($i=0;$i<count($cmtlines);$i++) {
+                        $cmtdata=explode("\v",$cmtlines[$i]);
+                        if(strlen($cmtdata[0])>0 && strlen($fpath)>0) {
+                            $cmtline=str_replace("<br />"," ",$cmtdata[3]);
+                            if(strlen($cmtline)>64) $cmtline=substr($cmtline,0,64)."...";
+
+                            $cmtarr=array($cmtdata[0],$cmtdata[2],$cmtline,$fpath);
+                            array_push($comments,$cmtarr);
+                        }
+                    }
+                }
+            }
+        }
+    }
+    closedir($handle);
+
+    rsort($comments);
+
+    for($i=0;$i<count($comments) && $i<50;$i++) {
+        $admin="";
+        if(substr($comments[$i][1],0,1)=="@") $admin=" admin";
+
+        $mtime=time()-(floor($comments[$i][0]/1000));
+        list($cmtime,$color)=colortime($mtime);
+
+        $item="<a href=\"/".$comments[$i][3]."#comment\" target=\"_self\" class=\"cmtr\">".
+            "<div class=\"cmtd name".$admin."\">".$comments[$i][1]."</div>".
+            "<div class=\"cmtd comment\">".$comments[$i][2]."</div>".
+            "<div class=\"cmtd file\">~/".$comments[$i][3]."</div>".
+            "<div class=\"cmtd time\" style=\"color: ".$color.";\">".$cmtime."</div>".
+            "</a>\n";
+        
+        echo $item;
+    }
+?>
+</div>
+</div>
+<br />

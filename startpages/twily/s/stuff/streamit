@@ -1,0 +1,115 @@
+#
+# Guide to stream sound from one computer to another with
+# alsa trough ssh using ffmpeg and mplayer.
+#
+#
+
+
+
+
+
+
+########################################### modprobe
+$ sudo modprobe snd-aloop
+
+# if alsa driver is compiled without snd-aloop module
+# install driver with ./configure --with-cards=aloop --with-sequencer=yes
+# Source: http://www.alsa-project.org/main/index.php/Matrix:Module-aloop#The_module_options_for_snd-aloop
+
+
+
+
+
+
+########################################### ~/.asoundrc
+pcm.!default {
+    type asym
+    playback.pcm "LoopAndReal"
+    #capture.pcm "looprec"
+    capture.pcm "hw:0,0"
+}
+
+pcm.looprec {
+    type hw
+    card "Loopback"
+    device 1
+    subdevice 0
+}
+
+pcm.LoopAndReal {
+    type plug
+    slave.pcm mdev
+    route_policy "duplicate"
+}
+
+pcm.mdev {
+    type multi
+    slaves.a.pcm pcm.MixReale
+    slaves.a.channels 2
+    slaves.b.pcm pcm.MixLoopback
+    slaves.b.channels 2
+    bindings.0.slave a
+    bindings.0.channel 0
+    bindings.1.slave a
+    bindings.1.channel 1
+    bindings.2.slave b
+    bindings.2.channel 0
+    bindings.3.slave b
+    bindings.3.channel 1
+}
+
+pcm.MixReale {
+    type dmix
+    ipc_key 1024
+    slave {
+        pcm "hw:0,0"
+        rate 48000
+        #rate 44100
+        periods 128
+        period_time 0
+        period_size 1024 # must be power of 2
+        buffer_size 8192
+    }
+}
+
+pcm.MixLoopback {
+    type dmix
+    ipc_key 1025
+    slave {
+        pcm "hw:Loopback,0,0"
+        rate 48000
+        #rate 44100
+        periods 128
+        period_time 0
+        period_size 1024 # must be power of 2
+        buffer_size 8192
+    }
+}
+# Source: https://bbs.archlinux.org/viewtopic.php?pid=1153194#p1153194
+
+
+
+
+
+
+
+########################################### ffmpeg/ssh/mplayer
+$ ffmpeg -f alsa -ac 2 -i hw:1,1 -f ogg - | ssh user@host mplayer/mplayer.exe - -idle -demuxer ogg
+
+# DTS Experiment
+$ ffmpeg -f alsa -channel_layout stereo -ac 2 \
+      -i hw:1,1 -f dts -strict -2 - | \
+      ssh -c arcfour dwv@twily mplayer/mplayer.exe - \
+      -idle -quiet -nocache -noautosub -novideo \
+      -demuxer lavf
+
+
+# Source: http://unix.stackexchange.com/questions/116919/redirect-sound-microphone-via-ssh-how-to-telephone-via-ssh
+#
+# client require ffmpeg and ssh client
+# host require mplayer and ssh server
+#
+# -i hw:1,1 is Loopback device 1
+# find card using $ aplay -l
+# (hw:Card,Device,Subdevice)
+#

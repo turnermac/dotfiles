@@ -1,0 +1,9 @@
+#!/bin/bash
+#
+# Source: http://superuser.com/questions/273797/convert-mp3-to-ogg-vorbis
+# Useage: sh ./mp3ogg ../input.mp3 output.ogg 8
+#         (Quality <8> can be 1-32 (low-high))
+#
+ffmpeg -i "$1" -c:a libvorbis -q:a $3 "$2" || exit
+echo -e "$(date) \033[1;32mSuccess: \033[1;34m$1\033[1;32m converted to \033[1;35m$2\033[1;32m | Quality: \033[0m8\033[1;32m.\033[0m"
+exit

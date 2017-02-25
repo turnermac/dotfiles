@@ -1,0 +1,54 @@
+html,body {
+    margin: 0; padding: 0; overflow: auto;
+    background: transparent; color: #AAABAD;
+}
+* {
+    box-sizing: border-box; font-size: 10pt;
+    font-family: "Droid Sans", "Liberation Sans", "DejaVu Sans", "Segoe UI", Sans;
+}
+*:focus { outline: none !important; }
+
+a:link, a:visited {
+    display: inline-block; text-decoration: none;
+    padding: 5px 10px; color: #AAABAD; border-radius: 1px;
+    transition: .2s ease;
+}
+a:hover, a:active { background: #27282B; color: #CECFD1; }
+
+#comments {
+    width: auto; height: auto;
+    margin: 16px;
+    background: transparent;
+}
+    #comments *:not(a) {
+        color: #CECFD1;
+    }
+
+    .cmt-frame {
+        width: 400px; height: auto;
+        margin-left: 16px;
+    }
+    .cmt-frame > .cmt-frame { border-left: 1px dotted #27282B; transition: .2s ease; }
+    .cmt-frame:hover > .cmt-frame { border-left-color: #606163; }
+        .cmt-title {
+            background: transparent;
+            padding: 4px 10px;
+        }
+        .cmt-content {
+            background: transparent;
+            padding: 4px 10px;
+            /*max-height: 200px; overflow: scroll;*/
+            word-wrap: break-word; overflow-wrap: break-word;
+        }
+
+
+    #cmtName { width: 400px; padding: 4px; }
+    #cmtText { width: 400px; height: 75px; resize: vertical; padding: 4px; }
+    .cmt-txt { background: transparent; border: 0; border-radius: 1px; transition: background .2s ease; }
+    .cmt-txt:focus, .cmt-txt:hover { background: #111113; }
+
+    #cmtStat { padding-left: 16px; }
+    .admin { color: #c769a0 !important; }
+    .name { color: #6d67d1 !important; }
+    .time { padding: 0 0 0 8px; color: #606163 !important; font-style: italic; }
+    .hide { margin-left: -10px; }

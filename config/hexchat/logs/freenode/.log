@@ -1,0 +1,16 @@
+**** BEGIN LOGGING AT Sun Feb 12 23:38:12 2017
+
+Feb 12 23:38:12 *	Connecting to chat.freenode.net (193.10.255.100:6697)
+Feb 12 23:38:13 *	* Certification info:
+Feb 12 23:38:13 *	  Subject:
+Feb 12 23:38:13 *	    CN=wolfe.freenode.net
+Feb 12 23:38:13 *	  Issuer:
+Feb 12 23:38:13 *	    C=US
+Feb 12 23:38:13 *	    O=Let's Encrypt
+Feb 12 23:38:13 *	    CN=Let's Encrypt Authority X3
+Feb 12 23:38:13 *	  Public key algorithm: rsaEncryption (4096 bits)
+Feb 12 23:38:13 *	  Sign algorithm sha256WithRSAEncryption
+Feb 12 23:38:13 *	  Valid since Jan 18 00:13:00 2017 GM to Apr 18 00:13:00 2017 GM
+Feb 12 23:38:13 *	* Cipher info:
+Feb 12 23:38:13 *	  Version: TLSv1/SSLv3, cipher DHE-RSA-AES256-GCM-SHA384 (256 bits)
+Feb 12 23:38:13 *	Connected. Now logging in.
