@@ -1,0 +1,71 @@
+2017-02-24 14:04:17		Parsing /data/projects/.weechat/beinc_weechat.json...
+2017-02-24 14:04:17		ERROR: unable to parse /data/projects/.weechat/beinc_weechat.json: load error - [Errno 2] No such file or directory: '/data/projects/.weechat/beinc_weechat.json'
+2017-02-24 14:04:17		BEINC is now disabled
+2017-02-24 14:04:17		beinc initiated!
+2017-02-24 14:04:17		python: stdout/stderr: Traceback (most recent call last):
+2017-02-24 14:04:17		python: stdout/stderr:   File "/data/projects/.weechat/python/autoload/mpc.py", line 79, in <module>
+2017-02-24 14:04:17		python: stdout/stderr:     from mpd import MPDClient, CommandError
+2017-02-24 14:04:17		python: stdout/stderr: ImportError: No module named mpd
+2017-02-24 14:04:17	 !!! 	python: unable to parse file "/data/projects/.weechat/python/autoload/mpc.py"
+2017-02-24 14:04:17		python scripts loaded: apply_corrections, autosort, beinc_weechat, bitlbee_completion, bitlbee_typing_notice, colorize_nicks, lnotify
+2017-02-24 14:04:17		New key binding (context "mouse"): @chat:button1* => hsignal:coords
+2017-02-24 14:04:17		New key binding (context "mouse"): @chat:button1-event-* => hsignal:coords
+2017-02-24 14:04:17		New key binding (context "mouse"): @chat(perl.[*):button1 => hsignal:coords
+2017-02-24 14:04:17	 !!! 	Error with command "/alias copywin coords" (help on command: /help alias)
+2017-02-24 14:04:18		perl scripts loaded: beep, buffers, color_popup, colorize_lines, coords, iset, kernel, sort_buffers, sysinfo
+2017-02-24 14:04:18		script: 310 scripts for WeeChat 1.5
+2017-02-24 14:04:18		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-02-24 14:04:49		[irc]  /server  list|listfull [<server>]
+2017-02-24 14:04:49		                add <server> <hostname>[/<port>] [-temp] [-<option>[=<value>]] [-no<option>]
+2017-02-24 14:04:49		                copy|rename <server> <new_name>
+2017-02-24 14:04:49		                reorder <server> [<server>...]
+2017-02-24 14:04:49		                del|keep <server>
+2017-02-24 14:04:49		                deloutq|jump|raw
+2017-02-24 14:04:49		list, add or remove IRC servers
+2017-02-24 14:04:49		    list: list servers (without argument, this list is displayed)
+2017-02-24 14:04:49		listfull: list servers with detailed info for each server
+2017-02-24 14:04:49		     add: add a new server
+2017-02-24 14:04:49		  server: server name, for internal and display use
+2017-02-24 14:04:49		hostname: name or IP address of server, with optional port (default: 6667), many addresses can be separated by a comma
+2017-02-24 14:04:49		    temp: add a temporary server (not saved)
+2017-02-24 14:04:49		  option: set option for server (for boolean option, value can be omitted)
+2017-02-24 14:04:49		nooption: set boolean option to 'off' (for example: -nossl)
+2017-02-24 14:04:49		    copy: duplicate a server
+2017-02-24 14:04:49		  rename: rename a server
+2017-02-24 14:04:49		 reorder: reorder list of servers
+2017-02-24 14:04:49		    keep: keep server in config file (for temporary servers only)
+2017-02-24 14:04:49		     del: delete a server
+2017-02-24 14:04:49		 deloutq: delete messages out queue for all servers (all messages WeeChat is currently sending)
+2017-02-24 14:04:49		    jump: jump to server buffer
+2017-02-24 14:04:49		     raw: open buffer with raw IRC data
+2017-02-24 14:04:49		Examples:
+2017-02-24 14:04:49		  /server listfull
+2017-02-24 14:04:49		  /server add freenode chat.freenode.net
+2017-02-24 14:04:49		  /server add freenode chat.freenode.net/6697 -ssl -autoconnect
+2017-02-24 14:04:49		  /server add chatspike irc.chatspike.net/6667,irc.duckspike.net/6667
+2017-02-24 14:04:49		  /server copy freenode freenode-test
+2017-02-24 14:04:49		  /server rename freenode-test freenode2
+2017-02-24 14:04:49		  /server reorder freenode2 freenode
+2017-02-24 14:04:49		  /server del freenode
+2017-02-24 14:04:49		  /server deloutq
+2017-02-24 14:05:19		irc: server freenode added
+2017-02-24 14:07:42		perl: scripts unloaded
+2017-02-24 14:07:42		fifo: pipe closed
+2017-02-24 14:07:42		python: scripts unloaded
+2017-02-24 14:07:45		Parsing /data/projects/.weechat/beinc_weechat.json...
+2017-02-24 14:07:45		ERROR: unable to parse /data/projects/.weechat/beinc_weechat.json: load error - [Errno 2] No such file or directory: '/data/projects/.weechat/beinc_weechat.json'
+2017-02-24 14:07:45		BEINC is now disabled
+2017-02-24 14:07:45		beinc initiated!
+2017-02-24 14:07:45		python: stdout/stderr: Traceback (most recent call last):
+2017-02-24 14:07:45		python: stdout/stderr:   File "/data/projects/.weechat/python/autoload/mpc.py", line 79, in <module>
+2017-02-24 14:07:45		python: stdout/stderr:     from mpd import MPDClient, CommandError
+2017-02-24 14:07:45		python: stdout/stderr: ImportError: No module named mpd
+2017-02-24 14:07:45	 !!! 	python: unable to parse file "/data/projects/.weechat/python/autoload/mpc.py"
+2017-02-24 14:07:45		python scripts loaded: apply_corrections, autosort, beinc_weechat, bitlbee_completion, bitlbee_typing_notice, colorize_nicks, lnotify
+2017-02-24 14:07:45	 !!! 	Error with command "/alias copywin coords" (help on command: /help alias)
+2017-02-24 14:07:45		perl scripts loaded: beep, buffers, color_popup, colorize_lines, coords, iset, kernel, sort_buffers, sysinfo
+2017-02-24 14:07:45		script: 310 scripts for WeeChat 1.5
+2017-02-24 14:07:45		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-02-24 14:07:51		perl: scripts unloaded
+2017-02-24 14:07:51		fifo: pipe closed
+2017-02-24 14:07:51		python: scripts unloaded

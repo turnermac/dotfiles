@@ -1,0 +1,67 @@
+2017-02-24 14:05:28	 - 	irc: connecting to server chat.freenode.net/6667...
+2017-02-24 14:05:28	 - 	irc: connected to chat.freenode.net/6667 (185.30.166.38)
+2017-02-24 14:05:28	 - 	orwell.freenode.net: *** Looking up your hostname...
+2017-02-24 14:05:29	 - 	orwell.freenode.net: *** Checking Ident
+2017-02-24 14:05:29	 - 	orwell.freenode.net: *** Couldn't look up your hostname
+2017-02-24 14:05:38	 - 	orwell.freenode.net: *** No Ident response
+2017-02-24 14:05:38	 - 	Welcome to the freenode Internet Relay Chat Network area51
+2017-02-24 14:05:38	 - 	Your host is orwell.freenode.net[185.30.166.38/6667], running version ircd-seven-1.1.4
+2017-02-24 14:05:38	 - 	This server was created Sat Jan 7 2017 at 12:04:42 EST
+2017-02-24 14:05:38	 - 	orwell.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2017-02-24 14:05:38	 - 	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+2017-02-24 14:05:38	 - 	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 KNOCK CPRIVMSG CNOTICE :are supported by this server
+2017-02-24 14:05:38	 - 	SAFELIST ELIST=CTU ETRACE WHOX :are supported by this server
+2017-02-24 14:05:38	 - 	There are 124 users and 88992 invisible on 27 servers
+2017-02-24 14:05:38	 - 	29 :IRC Operators online
+2017-02-24 14:05:38	 - 	11 :unknown connection(s)
+2017-02-24 14:05:38	 - 	57654 :channels formed
+2017-02-24 14:05:38	 - 	I have 6694 clients and 1 servers
+2017-02-24 14:05:38	 - 	6694 6943 :Current local users 6694, max 6943
+2017-02-24 14:05:38	 - 	89116 91868 :Current global users 89116, max 91868
+2017-02-24 14:05:38	 - 	Highest connection count: 6944 (6943 clients) (538845 connections received)
+2017-02-24 14:05:38	 - 	- orwell.freenode.net Message of the Day -
+2017-02-24 14:05:38	 - 	- Welcome to orwell.freenode.net in Amsterdam, NL.
+2017-02-24 14:05:38	 - 	- Thanks to http://www.hyperfilter.com/ for sponsoring
+2017-02-24 14:05:38	 - 	- this server!
+2017-02-24 14:05:38	 - 	-
+2017-02-24 14:05:38	 - 	- ORWELL, GEORGE [1903 - 1950] Born in India, his mother
+2017-02-24 14:05:38	 - 	- moved him to England when he was one year old, and it
+2017-02-24 14:05:38	 - 	- was in England where he was educated and spent most of
+2017-02-24 14:05:38	 - 	- his life.  Orwell is perhaps best known for his novels
+2017-02-24 14:05:38	 - 	- Nineteen Eighty-Four and Animal Farm.
+2017-02-24 14:05:38	 - 	-
+2017-02-24 14:05:38	 - 	-
+2017-02-24 14:05:38	 - 	- Welcome to freenode - supporting the free and open source
+2017-02-24 14:05:38	 - 	- software communities since 1998.
+2017-02-24 14:05:38	 - 	-
+2017-02-24 14:05:38	 - 	- By connecting to freenode you indicate that you have read and
+2017-02-24 14:05:38	 - 	- accept our policies as set out on http://www.freenode.net
+2017-02-24 14:05:38	 - 	- freenode runs an open proxy scanner. Please join #freenode for
+2017-02-24 14:05:38	 - 	- any network-related questions or queries, where a number of
+2017-02-24 14:05:38	 - 	- volunteer staff and helpful users will be happy to assist you.
+2017-02-24 14:05:38	 - 	-
+2017-02-24 14:05:38	 - 	- You can meet us at FOSSCON (http://www.fosscon.org) where we get
+2017-02-24 14:05:38	 - 	- together with like-minded FOSS enthusiasts for talks and
+2017-02-24 14:05:38	 - 	- real-life collaboration.
+2017-02-24 14:05:38	 - 	-
+2017-02-24 14:05:38	 - 	- We would like to thank Private Internet Access
+2017-02-24 14:05:38	 - 	- (https://www.privateinternetaccess.com/) and the other
+2017-02-24 14:05:38	 - 	- organisations that help keep freenode and our other projects
+2017-02-24 14:05:38	 - 	- running for their sustained support.
+2017-02-24 14:05:38	 - 	-
+2017-02-24 14:05:38	 - 	- In particular we would like to thank the sponsor
+2017-02-24 14:05:38	 - 	- of this server, details of which can be found above.
+2017-02-24 14:05:38	 - 	-
+2017-02-24 14:05:38	 - 	End of /MOTD command.
+2017-02-24 14:05:38	 - 	User mode [+i] by area51
+2017-02-24 14:05:38	 - 	NickServ (NickServ@services.): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2017-02-24 14:05:54	 - 	You are now known as guest88366
+2017-02-24 14:06:26	 - 	[guest88366] (~area51@176.221.120.223): area51
+2017-02-24 14:06:26	 - 	[guest88366] orwell.freenode.net (Amsterdam, NL, EU)
+2017-02-24 14:06:26	 - 	[guest88366] is connecting from *@176.221.120.223 176.221.120.223
+2017-02-24 14:06:26	 - 	[guest88366] idle: 00 hours 00 minutes 48 seconds, signon at:  
+2017-02-24 14:06:26	 - 	[guest88366] End of /WHOIS list.
+2017-02-24 14:07:20	 - 	#chat: ##namespace :Forwarding to another channel
+2017-02-24 14:07:25	 - 	CTCP requested by Seran: VERSION
+2017-02-24 14:07:25	 - 	CTCP reply to Seran: VERSION WeeChat 1.5 (Feb 24 2017)
+2017-02-24 14:07:42	 - 	irc: disconnected from server
