@@ -1,0 +1,26 @@
+# Record to MKV using ffmpeg
+# http://twily.info/screencast#Other
+# (No need to convert to webm)
+sh ./screencast -k true
+
+# Trim MKV to loop (Optional)
+# http://superuser.com/questions/138331/using-ffmpeg-to-cut-up-video
+ffmpeg -y -i out.mkv -ss 00:00:01.0 -t 00:00:2.5 trim.mkv
+
+# Preview MKV looped
+mpv trim.mkv -loop inf
+mpv out.mkv -loop inf
+
+# Make Palette from MKV
+# http://superuser.com/questions/556029/how-do-i-convert-a-video-to-gif-using-ffmpeg-with-reasonable-quality
+# http://blog.pkh.me/p/21-high-quality-gif-with-ffmpeg.html
+# https://ffmpeg.org/ffmpeg-filters.html#palettegen
+ffmpeg -y -i trim.mkv -vf palettegen=stats_mode=diff palette.png
+ffmpeg -y -i out.mkv -vf palettegen=stats_mode=diff palette.png
+
+# Make GIF using Palette
+ffmpeg -y -i trim.mkv -i palette.png -lavfi paletteuse=dither=none -r 12 out.gif
+ffmpeg -y -i out.mkv -i palette.png -lavfi paletteuse=dither=none -r 12 out.gif
+
+# Clean
+rm -f {out.mkv,trim.mkv,palette.png} && mv -i out.gif twily.gif

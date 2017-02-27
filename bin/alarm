@@ -1,0 +1,32 @@
+#!/bin/bash
+#
+# Author:       Twily                          2016
+# Description:  Play file at specific time as alarm
+# Requires:     alsa, wget (or mpv for mp3)
+# Usage:        $ sh ./alarm 07:00
+# Format:       $ date +"%H:%M"
+#
+
+LOCK=true
+SET="$1"
+
+while $LOCK; do
+    NOW=$(date +"%H:%M")
+    if [ "$SET" == "$NOW" ]; then LOCK=false; fi
+
+    sleep 1
+done
+
+echo "Time is $NOW; Executing alarm!"
+
+amixer -q sset Master unmute
+amixer -q sset Master 100%
+
+#ALARM="/home/guest/DATA-TWILY-OLD/music/Miley Cyrus - Can't Be Tamed.mp3"
+#mpv --loop=inf --no-terminal --volume=100 "$ALARM"
+
+# http://www.actsofvolition.com/archive/2005/january/thesoundofdata
+wget http://twily.info/usa.bmp --quiet -O /tmp/usa.bmp
+while :; do cat /tmp/usa.bmp | aplay --quiet -r 8000; done
+
+exit

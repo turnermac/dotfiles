@@ -1,0 +1,28 @@
+#!/bin/bash
+# requires imagemagick
+# sets first/second argument to directories you want to use
+img_dir="$1"
+wall_dir="$2"
+
+# self explanatory
+MIN_WIDTH=${3:-1600}
+MIN_HEIGHT=${900}
+
+# file extensions to check for (separated by | because they will be used in regex)
+FILE_TYPES='jpg|gif|png'
+
+shopt -s globstar extglob nocaseglob
+
+if [[ -d $img_dir && -d $wall_dir && -w $wall_dir ]]
+then
+  for img in "$img_dir"/**/*.@($FILE_TYPES); do
+    width=$(identify -format "%w" -- "$img[0]")
+    height=$(identify -format "%h" -- "$img[0]")
+    dir=$(dirname -- "${img#$img_dir/}")
+    [[ -e $wall_dir/$dir ]] || mkdir -p "$wall_dir/$dir"
+    action=Skipped
+    [[ $width -ge $MIN_WIDTH && $height -ge $MIN_HEIGHT ]] && ln -sr "$img" "$wall_dir" && action=Added
+    echo "$action $img (${width}x$height)"
+  done
+else echo "$0 <directory to scan> <directory to make symlinks> [min width (1900)] [min height (900)]"
+fi
