@@ -1,0 +1,506 @@
+/data/projects/nerd-fonts/src/unpatched-fonts/Lekton/Bold/Lekton-Bold.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/Lekton/Italic/Lekton-Italic.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/Lekton/Regular/Lekton-Regular.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/SpaceMono/SpaceMono-BoldItalic.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/SpaceMono/SpaceMono-Italic.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/SpaceMono/SpaceMono-Bold.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/SpaceMono/SpaceMono-Regular.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/Terminus/terminus-ttf-4.40.1/Bold/TerminusTTF-Bold-4.40.1.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/Terminus/terminus-ttf-4.40.1/Italic/TerminusTTF-Italic-4.40.1.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/Terminus/terminus-ttf-4.40.1/Regular/TerminusTTF-4.40.1.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/Terminus/terminus-ttf-4.40.1/BoldItalic/TerminusTTF-Bold Italic-4.40.1.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/AnonymousPro/Anonymice Powerline.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/LiberationMono/Literation Mono Powerline.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/Iosevka/Bold-Oblique/iosevka-boldoblique.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/Iosevka/Bold/iosevka-bold.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/Iosevka/Light-Oblique/iosevka-lightoblique.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/Iosevka/Italic/iosevka-italic.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/Iosevka/Oblique/iosevka-oblique.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/Iosevka/Regular/iosevka-regular.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/Iosevka/Thin-Oblique/iosevka-thinoblique.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/Iosevka/Heavy-Italic/iosevka-heavyitalic.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/Iosevka/Heavy/iosevka-heavy.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/Iosevka/Heavy-Oblique/iosevka-heavyoblique.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/Iosevka/Extra-Light-Italic/iosevka-extralightitalic.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/Iosevka/Light-Italic/iosevka-lightitalic.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/Iosevka/Thin/iosevka-thin.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/Iosevka/Thin-Italic/iosevka-thinitalic.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/Iosevka/Light/iosevka-light.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/Iosevka/Bold-Italic/iosevka-bolditalic.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/Iosevka/Extra-Light-Oblique/iosevka-extralightoblique.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/Iosevka/Extra-Light/iosevka-extralight.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/Iosevka/Medium/iosevka-medium.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/Iosevka/Medium-Italic/iosevka-mediumitalic.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/Iosevka/Medium-Oblique/iosevka-mediumoblique.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/3270/Narrow/3270Narrow.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/3270/Medium/3270Medium.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/DejaVuSansMono/Bold/DejaVuSansMono-Bold.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/DejaVuSansMono/Bold/DejaVu Sans Mono Bold for Powerline.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/DejaVuSansMono/Italic/DejaVuSansMono-Oblique.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/DejaVuSansMono/Italic/DejaVu Sans Mono Oblique for Powerline.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/DejaVuSansMono/Regular/DejaVu Sans Mono for Powerline.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/DejaVuSansMono/Regular/DejaVuSansMono.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/DejaVuSansMono/Bold-Italic/DejaVu Sans Mono Bold Oblique for Powerline.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/DejaVuSansMono/Bold-Italic/DejaVuSansMono-BoldOblique.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/RobotoMono/RobotoMono-Light.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/RobotoMono/RobotoMono-Bold.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/RobotoMono/RobotoMono-BoldItalic.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/RobotoMono/RobotoMono-Thin.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/RobotoMono/RobotoMono-Italic.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/RobotoMono/RobotoMono-Medium.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/RobotoMono/RobotoMono-Regular.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/RobotoMono/RobotoMono-ThinItalic.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/RobotoMono/RobotoMono-LightItalic.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/RobotoMono/RobotoMono-MediumItalic.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/Gohu/GohuFont-Medium.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/Gohu/GohuFont-Bold.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/UbuntuMono/Regular/Ubuntu Mono derivative Powerline.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/UbuntuMono/Original/UbuntuMono-R.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/FantasqueSansMono/Bold/FantasqueSansMono-Bold.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/FantasqueSansMono/Italic/FantasqueSansMono-Italic.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/FantasqueSansMono/Regular/FantasqueSansMono-Regular.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/FantasqueSansMono/Bold-Italic/FantasqueSansMono-BoldItalic.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/Monoid/Monoid-Bold.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/Monoid/Monoid-Retina.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/Monoid/Monoid-Italic.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/Monoid/Monoid-Regular.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/ProggyClean/SlashedZero/ProggyCleanSZ.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/ProggyClean/Regular/ProggyClean.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/ProggyClean/Latin2/ProggyCleanCE.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/SourceCodePro/Bold/SourceCodePro-Bold.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/SourceCodePro/Regular/SourceCodePro-Regular.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/SourceCodePro/Semibold/SourceCodePro-Semibold.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/SourceCodePro/Light/SourceCodePro-Light.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/SourceCodePro/Black/SourceCodePro-Black.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/SourceCodePro/Extra-Light/SourceCodePro-ExtraLight.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/SourceCodePro/Medium/SourceCodePro-Medium.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/ProFont/profontiix/ProFontIIx.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/ProFont/ProFontWinTweaked/ProFontWindows.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/Hack/Bold/Hack-Bold.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/Hack/Italic/Hack-Italic.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/Hack/Regular/Hack-Regular.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/Hack/BoldItalic/Hack-BoldItalic.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/ShareTechMono/ShareTechMono-Regular.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/HeavyData/heavy_data.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/MPlus/Bold/mplus-1m-bold.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/MPlus/Regular/mplus-1m-regular.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/MPlus/Thin/mplus-1m-thin.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/MPlus/Light/mplus-1m-light.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/MPlus/Medium/mplus-1m-medium.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/Monofur/Bold/Monofur Bold for Powerline.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/Monofur/Italic/Monofur Italic for Powerline.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/Monofur/Regular/Monofur for Powerline.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/Mononoki/mononoki-Bold.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/Mononoki/mononoki-BoldItalic.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/Mononoki/mononoki-Italic.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/Mononoki/mononoki-Regular.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/BitstreamVeraSansMono/Bold/VeraMono-Bold.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/BitstreamVeraSansMono/Italic/VeraMono-Italic.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/BitstreamVeraSansMono/Regular/VeraMono.ttf
+/data/projects/nerd-fonts/src/unpatched-fonts/BitstreamVeraSansMono/Bold-Italic/VeraMono-Bold-Italic.ttf
+/data/projects/nerd-fonts/src/glyphs/octicons.ttf
+/data/projects/nerd-fonts/src/glyphs/Symbols-2048-em Nerd Font Complete.ttf
+/data/projects/nerd-fonts/src/glyphs/Symbols-1000-em Nerd Font Complete.ttf
+/data/projects/nerd-fonts/src/glyphs/font-awesome-extension.ttf
+/data/projects/nerd-fonts/src/glyphs/font-linux.ttf
+/data/projects/nerd-fonts/src/glyphs/devicons.ttf
+/data/projects/nerd-fonts/patched-fonts/Lekton/Bold/complete/Lekton-Bold Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/Lekton/Bold/complete/Lekton-Bold Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/Lekton/Bold/complete/Lekton-Bold Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Lekton/Bold/complete/Lekton-Bold Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Lekton/Italic/complete/Lekton-Italic Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/Lekton/Italic/complete/Lekton-Italic Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Lekton/Italic/complete/Lekton-Italic Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/Lekton/Italic/complete/Lekton-Italic Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Lekton/Regular/complete/Lekton Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Lekton/Regular/complete/Lekton Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Lekton/Regular/complete/Lekton Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/Lekton/Regular/complete/Lekton Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/SpaceMono/complete/Space Mono Italic Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/SpaceMono/complete/Space Mono Bold Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/SpaceMono/complete/Space Mono Italic Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/SpaceMono/complete/Space Mono Bold Italic Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/SpaceMono/complete/Space Mono Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/SpaceMono/complete/Space Mono Bold Italic Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/SpaceMono/complete/Space Mono Bold Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/SpaceMono/complete/Space Mono Bold Italic Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/SpaceMono/complete/Space Mono Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/SpaceMono/complete/Space Mono Bold Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/SpaceMono/complete/Space Mono Italic Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/SpaceMono/complete/Space Mono Italic Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/SpaceMono/complete/Space Mono Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/SpaceMono/complete/Space Mono Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/SpaceMono/complete/Space Mono Bold Italic Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/SpaceMono/complete/Space Mono Bold Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Terminus/terminus-ttf-4.40.1/Bold/complete/Terminess (TTF) Bold Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/Terminus/terminus-ttf-4.40.1/Bold/complete/Terminess (TTF) Bold Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Terminus/terminus-ttf-4.40.1/Bold/complete/Terminess (TTF) Bold Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/Terminus/terminus-ttf-4.40.1/Bold/complete/Terminess (TTF) Bold Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Terminus/terminus-ttf-4.40.1/Italic/complete/Terminess (TTF) Italic Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Terminus/terminus-ttf-4.40.1/Italic/complete/Terminess (TTF) Italic Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/Terminus/terminus-ttf-4.40.1/Italic/complete/Terminess (TTF) Italic Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Terminus/terminus-ttf-4.40.1/Italic/complete/Terminess (TTF) Italic Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/Terminus/terminus-ttf-4.40.1/Regular/complete/Terminess (TTF) Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Terminus/terminus-ttf-4.40.1/Regular/complete/Terminess (TTF) Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/Terminus/terminus-ttf-4.40.1/Regular/complete/Terminess (TTF) Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/Terminus/terminus-ttf-4.40.1/Regular/complete/Terminess (TTF) Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Terminus/terminus-ttf-4.40.1/BoldItalic/complete/Terminess (TTF) Bold Italic Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Terminus/terminus-ttf-4.40.1/BoldItalic/complete/Terminess (TTF) Bold Italic Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/Terminus/terminus-ttf-4.40.1/BoldItalic/complete/Terminess (TTF) Bold Italic Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/Terminus/terminus-ttf-4.40.1/BoldItalic/complete/Terminess (TTF) Bold Italic Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/AnonymousPro/complete/Anonymice Powerline Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/AnonymousPro/complete/Anonymice Powerline Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/AnonymousPro/complete/Anonymice Powerline Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/AnonymousPro/complete/Anonymice Powerline Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/LiberationMono/complete/Literation Mono Powerline Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/LiberationMono/complete/Literation Mono Powerline Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/LiberationMono/complete/Literation Mono Powerline Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/LiberationMono/complete/Literation Mono Powerline Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Bold-Oblique/complete/Iosevka Bold Oblique Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Bold-Oblique/complete/Iosevka Bold Oblique Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Bold-Oblique/complete/Iosevka Bold Oblique Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Bold-Oblique/complete/Iosevka Bold Oblique Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Bold/complete/Iosevka Bold Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Bold/complete/Iosevka Bold Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Bold/complete/Iosevka Bold Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Bold/complete/Iosevka Bold Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Light-Oblique/complete/Iosevka Light Oblique Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Light-Oblique/complete/Iosevka Light Oblique Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Light-Oblique/complete/Iosevka Light Oblique Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Light-Oblique/complete/Iosevka Light Oblique Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Italic/complete/Iosevka Italic Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Italic/complete/Iosevka Italic Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Italic/complete/Iosevka Italic Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Italic/complete/Iosevka Italic Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Oblique/complete/Iosevka Oblique Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Oblique/complete/Iosevka Oblique Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Oblique/complete/Iosevka Oblique Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Oblique/complete/Iosevka Oblique Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Regular/complete/Iosevka Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Regular/complete/Iosevka Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Regular/complete/Iosevka Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Regular/complete/Iosevka Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Thin-Oblique/complete/Iosevka Thin Oblique Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Thin-Oblique/complete/Iosevka Thin Oblique Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Thin-Oblique/complete/Iosevka Thin Oblique Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Thin-Oblique/complete/Iosevka Thin Oblique Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Heavy-Italic/complete/Iosevka Heavy Italic Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Heavy-Italic/complete/Iosevka Heavy Italic Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Heavy-Italic/complete/Iosevka Heavy Italic Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Heavy-Italic/complete/Iosevka Heavy Italic Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Heavy/complete/Iosevka Heavy Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Heavy/complete/Iosevka Heavy Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Heavy/complete/Iosevka Heavy Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Heavy/complete/Iosevka Heavy Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Heavy-Oblique/complete/Iosevka Heavy Oblique Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Heavy-Oblique/complete/Iosevka Heavy Oblique Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Heavy-Oblique/complete/Iosevka Heavy Oblique Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Heavy-Oblique/complete/Iosevka Heavy Oblique Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Extra-Light-Italic/complete/Iosevka Extralight Italic Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Extra-Light-Italic/complete/Iosevka Extralight Italic Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Extra-Light-Italic/complete/Iosevka Extralight Italic Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Extra-Light-Italic/complete/Iosevka Extralight Italic Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Light-Italic/complete/Iosevka Light Italic Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Light-Italic/complete/Iosevka Light Italic Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Light-Italic/complete/Iosevka Light Italic Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Light-Italic/complete/Iosevka Light Italic Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Thin/complete/Iosevka Thin Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Thin/complete/Iosevka Thin Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Thin/complete/Iosevka Thin Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Thin/complete/Iosevka Thin Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Thin-Italic/complete/Iosevka Thin Italic Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Thin-Italic/complete/Iosevka Thin Italic Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Thin-Italic/complete/Iosevka Thin Italic Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Thin-Italic/complete/Iosevka Thin Italic Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Light/complete/Iosevka Light Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Light/complete/Iosevka Light Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Light/complete/Iosevka Light Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Light/complete/Iosevka Light Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Bold-Italic/complete/Iosevka Bold Italic Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Bold-Italic/complete/Iosevka Bold Italic Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Bold-Italic/complete/Iosevka Bold Italic Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Bold-Italic/complete/Iosevka Bold Italic Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Extra-Light-Oblique/complete/Iosevka Extralight Oblique Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Extra-Light-Oblique/complete/Iosevka Extralight Oblique Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Extra-Light-Oblique/complete/Iosevka Extralight Oblique Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Extra-Light-Oblique/complete/Iosevka Extralight Oblique Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Extra-Light/complete/Iosevka Extralight Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Extra-Light/complete/Iosevka Extralight Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Extra-Light/complete/Iosevka Extralight Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Extra-Light/complete/Iosevka Extralight Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Medium/complete/Iosevka Medium Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Medium/complete/Iosevka Medium Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Medium/complete/Iosevka Medium Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Medium/complete/Iosevka Medium Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Medium-Italic/complete/Iosevka Medium Italic Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Medium-Italic/complete/Iosevka Medium Italic Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Medium-Italic/complete/Iosevka Medium Italic Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Medium-Italic/complete/Iosevka Medium Italic Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Medium-Oblique/complete/Iosevka Medium Oblique Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Medium-Oblique/complete/Iosevka Medium Oblique Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Medium-Oblique/complete/Iosevka Medium Oblique Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Iosevka/Medium-Oblique/complete/Iosevka Medium Oblique Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/3270/Narrow/complete/3270 Narrow Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/3270/Narrow/complete/3270 Narrow Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/3270/Narrow/complete/3270 Narrow Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/3270/Narrow/complete/3270 Narrow Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/3270/Medium/complete/3270-Medium Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/3270/Medium/complete/3270-Medium Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/3270/Medium/complete/3270-Medium Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/3270/Medium/complete/3270-Medium Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/DejaVuSansMono/Bold/complete/DejaVu Sans Mono Bold Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/DejaVuSansMono/Bold/complete/DejaVu Sans Mono Bold Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/DejaVuSansMono/Bold/complete/DejaVu Sans Mono Bold Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/DejaVuSansMono/Bold/complete/DejaVu Sans Mono Bold for Powerline Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/DejaVuSansMono/Bold/complete/DejaVu Sans Mono Bold Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/DejaVuSansMono/Bold/complete/DejaVu Sans Mono Bold for Powerline Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/DejaVuSansMono/Bold/complete/DejaVu Sans Mono Bold for Powerline Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/DejaVuSansMono/Bold/complete/DejaVu Sans Mono Bold for Powerline Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/DejaVuSansMono/Italic/complete/DejaVu Sans Mono Oblique Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/DejaVuSansMono/Italic/complete/DejaVu Sans Mono Oblique Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/DejaVuSansMono/Italic/complete/DejaVu Sans Mono Oblique for Powerline Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/DejaVuSansMono/Italic/complete/DejaVu Sans Mono Oblique for Powerline Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/DejaVuSansMono/Italic/complete/DejaVu Sans Mono Oblique for Powerline Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/DejaVuSansMono/Italic/complete/DejaVu Sans Mono Oblique for Powerline Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/DejaVuSansMono/Italic/complete/DejaVu Sans Mono Oblique Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/DejaVuSansMono/Italic/complete/DejaVu Sans Mono Oblique Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/DejaVuSansMono/Regular/complete/DejaVu Sans Mono Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/DejaVuSansMono/Regular/complete/DejaVu Sans Mono for Powerline Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/DejaVuSansMono/Regular/complete/DejaVu Sans Mono Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/DejaVuSansMono/Regular/complete/DejaVu Sans Mono for Powerline Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/DejaVuSansMono/Regular/complete/DejaVu Sans Mono Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/DejaVuSansMono/Regular/complete/DejaVu Sans Mono Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/DejaVuSansMono/Regular/complete/DejaVu Sans Mono for Powerline Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/DejaVuSansMono/Regular/complete/DejaVu Sans Mono for Powerline Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/DejaVuSansMono/Bold-Italic/complete/DejaVu Sans Mono Bold Oblique Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/DejaVuSansMono/Bold-Italic/complete/DejaVu Sans Mono Bold Oblique for Powerline Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/DejaVuSansMono/Bold-Italic/complete/DejaVu Sans Mono Bold Oblique for Powerline Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/DejaVuSansMono/Bold-Italic/complete/DejaVu Sans Mono Bold Oblique for Powerline Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/DejaVuSansMono/Bold-Italic/complete/DejaVu Sans Mono Bold Oblique Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/DejaVuSansMono/Bold-Italic/complete/DejaVu Sans Mono Bold Oblique Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/DejaVuSansMono/Bold-Italic/complete/DejaVu Sans Mono Bold Oblique for Powerline Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/DejaVuSansMono/Bold-Italic/complete/DejaVu Sans Mono Bold Oblique Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/RobotoMono/complete/Roboto Mono Thin Italic Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/RobotoMono/complete/Roboto Mono Thin Italic Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/RobotoMono/complete/Roboto Mono Medium Italic Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/RobotoMono/complete/Roboto Mono Medium Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/RobotoMono/complete/Roboto Mono Italic Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/RobotoMono/complete/Roboto Mono Bold Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/RobotoMono/complete/Roboto Mono Light Italic Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/RobotoMono/complete/Roboto Mono Light Italic Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/RobotoMono/complete/Roboto Mono Medium Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/RobotoMono/complete/Roboto Mono Bold Italic Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/RobotoMono/complete/Roboto Mono Thin Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/RobotoMono/complete/Roboto Mono Italic Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/RobotoMono/complete/Roboto Mono Medium Italic Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/RobotoMono/complete/Roboto Mono Light Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/RobotoMono/complete/Roboto Mono Medium Italic Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/RobotoMono/complete/Roboto Mono Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/RobotoMono/complete/Roboto Mono Medium Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/RobotoMono/complete/Roboto Mono Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/RobotoMono/complete/Roboto Mono Italic Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/RobotoMono/complete/Roboto Mono Light Italic Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/RobotoMono/complete/Roboto Mono Medium Italic Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/RobotoMono/complete/Roboto Mono Light Italic Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/RobotoMono/complete/Roboto Mono Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/RobotoMono/complete/Roboto Mono Italic Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/RobotoMono/complete/Roboto Mono Medium Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/RobotoMono/complete/Roboto Mono Thin Italic Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/RobotoMono/complete/Roboto Mono Light Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/RobotoMono/complete/Roboto Mono Thin Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/RobotoMono/complete/Roboto Mono Thin Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/RobotoMono/complete/Roboto Mono Thin Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/RobotoMono/complete/Roboto Mono Light Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/RobotoMono/complete/Roboto Mono Bold Italic Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/RobotoMono/complete/Roboto Mono Bold Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/RobotoMono/complete/Roboto Mono Bold Italic Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/RobotoMono/complete/Roboto Mono Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/RobotoMono/complete/Roboto Mono Bold Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/RobotoMono/complete/Roboto Mono Bold Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/RobotoMono/complete/Roboto Mono Thin Italic Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/RobotoMono/complete/Roboto Mono Light Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/RobotoMono/complete/Roboto Mono Bold Italic Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Gohu/complete/GohuFont-Bold Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Gohu/complete/GohuFont-Medium Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/Gohu/complete/GohuFont-Bold Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/Gohu/complete/GohuFont-Medium Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Gohu/complete/GohuFont-Medium Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/Gohu/complete/GohuFont-Bold Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Gohu/complete/GohuFont-Bold Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/Gohu/complete/GohuFont-Medium Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/UbuntuMono/Regular/complete/Ubuntu Mono derivative Powerline Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/UbuntuMono/Regular/complete/Ubuntu Mono derivative Powerline Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/UbuntuMono/Regular/complete/Ubuntu Mono derivative Powerline Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/UbuntuMono/Regular/complete/Ubuntu Mono derivative Powerline Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/UbuntuMono/Original/complete/Ubuntu Mono Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/UbuntuMono/Original/complete/Ubuntu Mono Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/UbuntuMono/Original/complete/Ubuntu Mono Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/UbuntuMono/Original/complete/Ubuntu Mono Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/FantasqueSansMono/Bold/complete/Fantasque Sans Mono Bold Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/FantasqueSansMono/Bold/complete/Fantasque Sans Mono Bold Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/FantasqueSansMono/Bold/complete/Fantasque Sans Mono Bold Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/FantasqueSansMono/Bold/complete/Fantasque Sans Mono Bold Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/FantasqueSansMono/Italic/complete/Fantasque Sans Mono Italic Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/FantasqueSansMono/Italic/complete/Fantasque Sans Mono Italic Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/FantasqueSansMono/Italic/complete/Fantasque Sans Mono Italic Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/FantasqueSansMono/Italic/complete/Fantasque Sans Mono Italic Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/FantasqueSansMono/Regular/complete/Fantasque Sans Mono Regular Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/FantasqueSansMono/Regular/complete/Fantasque Sans Mono Regular Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/FantasqueSansMono/Regular/complete/Fantasque Sans Mono Regular Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/FantasqueSansMono/Regular/complete/Fantasque Sans Mono Regular Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/FantasqueSansMono/Bold-Italic/complete/Fantasque Sans Mono Bold Italic Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/FantasqueSansMono/Bold-Italic/complete/Fantasque Sans Mono Bold Italic Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/FantasqueSansMono/Bold-Italic/complete/Fantasque Sans Mono Bold Italic Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/FantasqueSansMono/Bold-Italic/complete/Fantasque Sans Mono Bold Italic Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/Monoid/complete/Monoid Bold Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/Monoid/complete/Monoid Retina Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Monoid/complete/Monoid Regular Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Monoid/complete/Monoid Bold Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Monoid/complete/Monoid Regular Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/Monoid/complete/Monoid Regular Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Monoid/complete/Monoid Bold Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Monoid/complete/Monoid Italic Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Monoid/complete/Monoid Bold Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/Monoid/complete/Monoid Retina Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/Monoid/complete/Monoid Italic Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/Monoid/complete/Monoid Italic Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/Monoid/complete/Monoid Italic Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Monoid/complete/Monoid Regular Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/Monoid/complete/Monoid Retina Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Monoid/complete/Monoid Retina Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/ProggyClean/SlashedZero/complete/ProggyCleanTTSZ Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/ProggyClean/SlashedZero/complete/ProggyCleanTTSZ Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/ProggyClean/SlashedZero/complete/ProggyCleanTTSZ Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/ProggyClean/SlashedZero/complete/ProggyCleanTTSZ Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/ProggyClean/Regular/complete/ProggyCleanTT Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/ProggyClean/Regular/complete/ProggyCleanTT Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/ProggyClean/Regular/complete/ProggyCleanTT Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/ProggyClean/Regular/complete/ProggyCleanTT Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/ProggyClean/Latin2/complete/ProggyCleanTT CE Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/ProggyClean/Latin2/complete/ProggyCleanTT CE Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/ProggyClean/Latin2/complete/ProggyCleanTT CE Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/ProggyClean/Latin2/complete/ProggyCleanTT CE Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/SourceCodePro/Bold/complete/Sauce Code Pro Bold Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/SourceCodePro/Bold/complete/Sauce Code Pro Bold Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/SourceCodePro/Bold/complete/Sauce Code Pro Bold Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/SourceCodePro/Bold/complete/Sauce Code Pro Bold Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/SourceCodePro/Regular/complete/Sauce Code Pro Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/SourceCodePro/Regular/complete/Sauce Code Pro Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/SourceCodePro/Regular/complete/Sauce Code Pro Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/SourceCodePro/Regular/complete/Sauce Code Pro Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/SourceCodePro/Semibold/complete/Sauce Code Pro Semibold Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/SourceCodePro/Semibold/complete/Sauce Code Pro Semibold Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/SourceCodePro/Semibold/complete/Sauce Code Pro Semibold Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/SourceCodePro/Semibold/complete/Sauce Code Pro Semibold Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/SourceCodePro/Light/complete/Sauce Code Pro Light Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/SourceCodePro/Light/complete/Sauce Code Pro Light Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/SourceCodePro/Light/complete/Sauce Code Pro Light Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/SourceCodePro/Light/complete/Sauce Code Pro Light Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/SourceCodePro/Black/complete/Sauce Code Pro Black Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/SourceCodePro/Black/complete/Sauce Code Pro Black Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/SourceCodePro/Black/complete/Sauce Code Pro Black Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/SourceCodePro/Black/complete/Sauce Code Pro Black Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/SourceCodePro/Extra-Light/complete/Sauce Code Pro ExtraLight Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/SourceCodePro/Extra-Light/complete/Sauce Code Pro ExtraLight Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/SourceCodePro/Extra-Light/complete/Sauce Code Pro ExtraLight Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/SourceCodePro/Extra-Light/complete/Sauce Code Pro ExtraLight Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/SourceCodePro/Medium/complete/Sauce Code Pro Medium Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/SourceCodePro/Medium/complete/Sauce Code Pro Medium Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/SourceCodePro/Medium/complete/Sauce Code Pro Medium Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/SourceCodePro/Medium/complete/Sauce Code Pro Medium Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/ProFont/profontiix/complete/ProFont IIx Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/ProFont/profontiix/complete/ProFont IIx Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/ProFont/profontiix/complete/ProFont IIx Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/ProFont/profontiix/complete/ProFont IIx Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/ProFont/ProFontWinTweaked/complete/ProFontWindows Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/ProFont/ProFontWinTweaked/complete/ProFontWindows Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/ProFont/ProFontWinTweaked/complete/ProFontWindows Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/ProFont/ProFontWinTweaked/complete/ProFontWindows Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/Hack/Bold/complete/Knack Bold Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Hack/Bold/complete/Knack Bold Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Hack/Bold/complete/Knack Bold Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/Hack/Bold/complete/Knack Bold Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/Hack/Italic/complete/Knack Italic Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/Hack/Italic/complete/Knack Italic Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/Hack/Italic/complete/Knack Italic Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Hack/Italic/complete/Knack Italic Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Hack/Regular/complete/Knack Regular Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Hack/Regular/complete/Knack Regular Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/Hack/Regular/complete/Knack Regular Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/Hack/Regular/complete/Knack Regular Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Hack/BoldItalic/complete/Knack Bold Italic Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Hack/BoldItalic/complete/Knack Bold Italic Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Hack/BoldItalic/complete/Knack Bold Italic Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/Hack/BoldItalic/complete/Knack Bold Italic Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/ShareTechMono/complete/Shure Tech Mono Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/ShareTechMono/complete/Shure Tech Mono Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/ShareTechMono/complete/Shure Tech Mono Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/ShareTechMono/complete/Shure Tech Mono Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/HeavyData/complete/Heavy Data Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/HeavyData/complete/Heavy Data Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/HeavyData/complete/Heavy Data Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/HeavyData/complete/Heavy Data Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/MPlus/Bold/complete/M+ 1m bold Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/MPlus/Bold/complete/M+ 1m bold Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/MPlus/Bold/complete/M+ 1m bold Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/MPlus/Bold/complete/M+ 1m bold Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/MPlus/Regular/complete/M+ 1m regular Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/MPlus/Regular/complete/M+ 1m regular Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/MPlus/Regular/complete/M+ 1m regular Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/MPlus/Regular/complete/M+ 1m regular Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/MPlus/Thin/complete/M+ 1m thin Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/MPlus/Thin/complete/M+ 1m thin Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/MPlus/Thin/complete/M+ 1m thin Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/MPlus/Thin/complete/M+ 1m thin Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/MPlus/Light/complete/M+ 1m light Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/MPlus/Light/complete/M+ 1m light Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/MPlus/Light/complete/M+ 1m light Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/MPlus/Light/complete/M+ 1m light Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/MPlus/Medium/complete/M+ 1m medium Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/MPlus/Medium/complete/M+ 1m medium Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/MPlus/Medium/complete/M+ 1m medium Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/MPlus/Medium/complete/M+ 1m medium Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Monofur/Bold/complete/monofur   bold for Powerline Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Monofur/Bold/complete/monofur   bold for Powerline Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Monofur/Bold/complete/monofur   bold for Powerline Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/Monofur/Bold/complete/monofur   bold for Powerline Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/Monofur/Italic/complete/monofur   italic for Powerline Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/Monofur/Italic/complete/monofur   italic for Powerline Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Monofur/Italic/complete/monofur   italic for Powerline Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Monofur/Italic/complete/monofur   italic for Powerline Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/Monofur/Regular/complete/monofur for Powerline Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Monofur/Regular/complete/monofur for Powerline Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/Monofur/Regular/complete/monofur for Powerline Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Monofur/Regular/complete/monofur for Powerline Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/Mononoki/complete/mononoki Italic Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Mononoki/complete/mononoki Bold Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/Mononoki/complete/mononoki Italic Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/Mononoki/complete/mononoki Italic Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Mononoki/complete/mononoki-Regular Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Mononoki/complete/mononoki Bold Italic Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/Mononoki/complete/mononoki Bold Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Mononoki/complete/mononoki-Regular Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/Mononoki/complete/mononoki Bold Italic Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Mononoki/complete/mononoki Bold Italic Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Mononoki/complete/mononoki-Regular Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/Mononoki/complete/mononoki Bold Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/Mononoki/complete/mononoki Italic Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/Mononoki/complete/mononoki-Regular Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/Mononoki/complete/mononoki Bold Italic Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/Mononoki/complete/mononoki Bold Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/BitstreamVeraSansMono/Bold/complete/Bitstream Vera Sans Mono Bold Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/BitstreamVeraSansMono/Bold/complete/Bitstream Vera Sans Mono Bold Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/BitstreamVeraSansMono/Bold/complete/Bitstream Vera Sans Mono Bold Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/BitstreamVeraSansMono/Bold/complete/Bitstream Vera Sans Mono Bold Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/BitstreamVeraSansMono/Italic/complete/Bitstream Vera Sans Mono Oblique Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/BitstreamVeraSansMono/Italic/complete/Bitstream Vera Sans Mono Oblique Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/BitstreamVeraSansMono/Italic/complete/Bitstream Vera Sans Mono Oblique Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/BitstreamVeraSansMono/Italic/complete/Bitstream Vera Sans Mono Oblique Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/BitstreamVeraSansMono/Regular/complete/Bitstream Vera Sans Mono Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/BitstreamVeraSansMono/Regular/complete/Bitstream Vera Sans Mono Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/BitstreamVeraSansMono/Regular/complete/Bitstream Vera Sans Mono Nerd Font Complete.ttf
+/data/projects/nerd-fonts/patched-fonts/BitstreamVeraSansMono/Regular/complete/Bitstream Vera Sans Mono Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/BitstreamVeraSansMono/Bold-Italic/complete/Bitstream Vera Sans Mono Bold Oblique Nerd Font Complete Mono.ttf
+/data/projects/nerd-fonts/patched-fonts/BitstreamVeraSansMono/Bold-Italic/complete/Bitstream Vera Sans Mono Bold Oblique Nerd Font Complete Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/BitstreamVeraSansMono/Bold-Italic/complete/Bitstream Vera Sans Mono Bold Oblique Nerd Font Complete Mono Windows Compatible.ttf
+/data/projects/nerd-fonts/patched-fonts/BitstreamVeraSansMono/Bold-Italic/complete/Bitstream Vera Sans Mono Bold Oblique Nerd Font Complete.ttf

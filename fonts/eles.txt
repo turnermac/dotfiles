@@ -1,0 +1,506 @@
+Lekton-Bold.ttf
+Lekton-Italic.ttf
+Lekton-Regular.ttf
+SpaceMono-BoldItalic.ttf
+SpaceMono-Italic.ttf
+SpaceMono-Bold.ttf
+SpaceMono-Regular.ttf
+TerminusTTF-Bold-4.40.1.ttf
+TerminusTTF-Italic-4.40.1.ttf
+TerminusTTF-4.40.1.ttf
+TerminusTTF-Bold Italic-4.40.1.ttf
+Anonymice Powerline.ttf
+Literation Mono Powerline.ttf
+iosevka-boldoblique.ttf
+iosevka-bold.ttf
+iosevka-lightoblique.ttf
+iosevka-italic.ttf
+iosevka-oblique.ttf
+iosevka-regular.ttf
+iosevka-thinoblique.ttf
+iosevka-heavyitalic.ttf
+iosevka-heavy.ttf
+iosevka-heavyoblique.ttf
+iosevka-extralightitalic.ttf
+iosevka-lightitalic.ttf
+iosevka-thin.ttf
+iosevka-thinitalic.ttf
+iosevka-light.ttf
+iosevka-bolditalic.ttf
+iosevka-extralightoblique.ttf
+iosevka-extralight.ttf
+iosevka-medium.ttf
+iosevka-mediumitalic.ttf
+iosevka-mediumoblique.ttf
+3270Narrow.ttf
+3270Medium.ttf
+DejaVuSansMono-Bold.ttf
+DejaVu Sans Mono Bold for Powerline.ttf
+DejaVuSansMono-Oblique.ttf
+DejaVu Sans Mono Oblique for Powerline.ttf
+DejaVu Sans Mono for Powerline.ttf
+DejaVuSansMono.ttf
+DejaVu Sans Mono Bold Oblique for Powerline.ttf
+DejaVuSansMono-BoldOblique.ttf
+RobotoMono-Light.ttf
+RobotoMono-Bold.ttf
+RobotoMono-BoldItalic.ttf
+RobotoMono-Thin.ttf
+RobotoMono-Italic.ttf
+RobotoMono-Medium.ttf
+RobotoMono-Regular.ttf
+RobotoMono-ThinItalic.ttf
+RobotoMono-LightItalic.ttf
+RobotoMono-MediumItalic.ttf
+GohuFont-Medium.ttf
+GohuFont-Bold.ttf
+Ubuntu Mono derivative Powerline.ttf
+UbuntuMono-R.ttf
+FantasqueSansMono-Bold.ttf
+FantasqueSansMono-Italic.ttf
+FantasqueSansMono-Regular.ttf
+FantasqueSansMono-BoldItalic.ttf
+Monoid-Bold.ttf
+Monoid-Retina.ttf
+Monoid-Italic.ttf
+Monoid-Regular.ttf
+ProggyCleanSZ.ttf
+ProggyClean.ttf
+ProggyCleanCE.ttf
+SourceCodePro-Bold.ttf
+SourceCodePro-Regular.ttf
+SourceCodePro-Semibold.ttf
+SourceCodePro-Light.ttf
+SourceCodePro-Black.ttf
+SourceCodePro-ExtraLight.ttf
+SourceCodePro-Medium.ttf
+ProFontIIx.ttf
+ProFontWindows.ttf
+Hack-Bold.ttf
+Hack-Italic.ttf
+Hack-Regular.ttf
+Hack-BoldItalic.ttf
+ShareTechMono-Regular.ttf
+heavy_data.ttf
+mplus-1m-bold.ttf
+mplus-1m-regular.ttf
+mplus-1m-thin.ttf
+mplus-1m-light.ttf
+mplus-1m-medium.ttf
+Monofur Bold for Powerline.ttf
+Monofur Italic for Powerline.ttf
+Monofur for Powerline.ttf
+mononoki-Bold.ttf
+mononoki-BoldItalic.ttf
+mononoki-Italic.ttf
+mononoki-Regular.ttf
+VeraMono-Bold.ttf
+VeraMono-Italic.ttf
+VeraMono.ttf
+VeraMono-Bold-Italic.ttf
+octicons.ttf
+Symbols-2048-em Nerd Font Complete.ttf
+Symbols-1000-em Nerd Font Complete.ttf
+font-awesome-extension.ttf
+font-linux.ttf
+devicons.ttf
+Lekton-Bold Nerd Font Complete Mono.ttf
+Lekton-Bold Nerd Font Complete.ttf
+Lekton-Bold Nerd Font Complete Windows Compatible.ttf
+Lekton-Bold Nerd Font Complete Mono Windows Compatible.ttf
+Lekton-Italic Nerd Font Complete.ttf
+Lekton-Italic Nerd Font Complete Mono Windows Compatible.ttf
+Lekton-Italic Nerd Font Complete Mono.ttf
+Lekton-Italic Nerd Font Complete Windows Compatible.ttf
+Lekton Nerd Font Complete Mono Windows Compatible.ttf
+Lekton Nerd Font Complete Windows Compatible.ttf
+Lekton Nerd Font Complete.ttf
+Lekton Nerd Font Complete Mono.ttf
+Space Mono Italic Nerd Font Complete Mono Windows Compatible.ttf
+Space Mono Bold Nerd Font Complete.ttf
+Space Mono Italic Nerd Font Complete Windows Compatible.ttf
+Space Mono Bold Italic Nerd Font Complete Mono Windows Compatible.ttf
+Space Mono Nerd Font Complete Windows Compatible.ttf
+Space Mono Bold Italic Nerd Font Complete Windows Compatible.ttf
+Space Mono Bold Nerd Font Complete Windows Compatible.ttf
+Space Mono Bold Italic Nerd Font Complete.ttf
+Space Mono Nerd Font Complete Mono Windows Compatible.ttf
+Space Mono Bold Nerd Font Complete Mono.ttf
+Space Mono Italic Nerd Font Complete Mono.ttf
+Space Mono Italic Nerd Font Complete.ttf
+Space Mono Nerd Font Complete Mono.ttf
+Space Mono Nerd Font Complete.ttf
+Space Mono Bold Italic Nerd Font Complete Mono.ttf
+Space Mono Bold Nerd Font Complete Mono Windows Compatible.ttf
+Terminess (TTF) Bold Nerd Font Complete.ttf
+Terminess (TTF) Bold Nerd Font Complete Windows Compatible.ttf
+Terminess (TTF) Bold Nerd Font Complete Mono.ttf
+Terminess (TTF) Bold Nerd Font Complete Mono Windows Compatible.ttf
+Terminess (TTF) Italic Nerd Font Complete Windows Compatible.ttf
+Terminess (TTF) Italic Nerd Font Complete Mono.ttf
+Terminess (TTF) Italic Nerd Font Complete Mono Windows Compatible.ttf
+Terminess (TTF) Italic Nerd Font Complete.ttf
+Terminess (TTF) Nerd Font Complete Mono Windows Compatible.ttf
+Terminess (TTF) Nerd Font Complete.ttf
+Terminess (TTF) Nerd Font Complete Mono.ttf
+Terminess (TTF) Nerd Font Complete Windows Compatible.ttf
+Terminess (TTF) Bold Italic Nerd Font Complete Windows Compatible.ttf
+Terminess (TTF) Bold Italic Nerd Font Complete.ttf
+Terminess (TTF) Bold Italic Nerd Font Complete Mono.ttf
+Terminess (TTF) Bold Italic Nerd Font Complete Mono Windows Compatible.ttf
+Anonymice Powerline Nerd Font Complete Mono Windows Compatible.ttf
+Anonymice Powerline Nerd Font Complete Mono.ttf
+Anonymice Powerline Nerd Font Complete.ttf
+Anonymice Powerline Nerd Font Complete Windows Compatible.ttf
+Literation Mono Powerline Nerd Font Complete.ttf
+Literation Mono Powerline Nerd Font Complete Mono Windows Compatible.ttf
+Literation Mono Powerline Nerd Font Complete Mono.ttf
+Literation Mono Powerline Nerd Font Complete Windows Compatible.ttf
+Iosevka Bold Oblique Nerd Font Complete Mono.ttf
+Iosevka Bold Oblique Nerd Font Complete.ttf
+Iosevka Bold Oblique Nerd Font Complete Mono Windows Compatible.ttf
+Iosevka Bold Oblique Nerd Font Complete Windows Compatible.ttf
+Iosevka Bold Nerd Font Complete.ttf
+Iosevka Bold Nerd Font Complete Mono Windows Compatible.ttf
+Iosevka Bold Nerd Font Complete Windows Compatible.ttf
+Iosevka Bold Nerd Font Complete Mono.ttf
+Iosevka Light Oblique Nerd Font Complete.ttf
+Iosevka Light Oblique Nerd Font Complete Windows Compatible.ttf
+Iosevka Light Oblique Nerd Font Complete Mono.ttf
+Iosevka Light Oblique Nerd Font Complete Mono Windows Compatible.ttf
+Iosevka Italic Nerd Font Complete Mono Windows Compatible.ttf
+Iosevka Italic Nerd Font Complete Mono.ttf
+Iosevka Italic Nerd Font Complete.ttf
+Iosevka Italic Nerd Font Complete Windows Compatible.ttf
+Iosevka Oblique Nerd Font Complete.ttf
+Iosevka Oblique Nerd Font Complete Mono.ttf
+Iosevka Oblique Nerd Font Complete Windows Compatible.ttf
+Iosevka Oblique Nerd Font Complete Mono Windows Compatible.ttf
+Iosevka Nerd Font Complete Windows Compatible.ttf
+Iosevka Nerd Font Complete Mono.ttf
+Iosevka Nerd Font Complete Mono Windows Compatible.ttf
+Iosevka Nerd Font Complete.ttf
+Iosevka Thin Oblique Nerd Font Complete.ttf
+Iosevka Thin Oblique Nerd Font Complete Mono Windows Compatible.ttf
+Iosevka Thin Oblique Nerd Font Complete Windows Compatible.ttf
+Iosevka Thin Oblique Nerd Font Complete Mono.ttf
+Iosevka Heavy Italic Nerd Font Complete Mono Windows Compatible.ttf
+Iosevka Heavy Italic Nerd Font Complete Mono.ttf
+Iosevka Heavy Italic Nerd Font Complete.ttf
+Iosevka Heavy Italic Nerd Font Complete Windows Compatible.ttf
+Iosevka Heavy Nerd Font Complete Mono Windows Compatible.ttf
+Iosevka Heavy Nerd Font Complete.ttf
+Iosevka Heavy Nerd Font Complete Mono.ttf
+Iosevka Heavy Nerd Font Complete Windows Compatible.ttf
+Iosevka Heavy Oblique Nerd Font Complete Mono Windows Compatible.ttf
+Iosevka Heavy Oblique Nerd Font Complete Windows Compatible.ttf
+Iosevka Heavy Oblique Nerd Font Complete Mono.ttf
+Iosevka Heavy Oblique Nerd Font Complete.ttf
+Iosevka Extralight Italic Nerd Font Complete Mono.ttf
+Iosevka Extralight Italic Nerd Font Complete Mono Windows Compatible.ttf
+Iosevka Extralight Italic Nerd Font Complete Windows Compatible.ttf
+Iosevka Extralight Italic Nerd Font Complete.ttf
+Iosevka Light Italic Nerd Font Complete Mono.ttf
+Iosevka Light Italic Nerd Font Complete.ttf
+Iosevka Light Italic Nerd Font Complete Windows Compatible.ttf
+Iosevka Light Italic Nerd Font Complete Mono Windows Compatible.ttf
+Iosevka Thin Nerd Font Complete Mono Windows Compatible.ttf
+Iosevka Thin Nerd Font Complete Mono.ttf
+Iosevka Thin Nerd Font Complete.ttf
+Iosevka Thin Nerd Font Complete Windows Compatible.ttf
+Iosevka Thin Italic Nerd Font Complete Mono Windows Compatible.ttf
+Iosevka Thin Italic Nerd Font Complete.ttf
+Iosevka Thin Italic Nerd Font Complete Mono.ttf
+Iosevka Thin Italic Nerd Font Complete Windows Compatible.ttf
+Iosevka Light Nerd Font Complete Mono Windows Compatible.ttf
+Iosevka Light Nerd Font Complete.ttf
+Iosevka Light Nerd Font Complete Windows Compatible.ttf
+Iosevka Light Nerd Font Complete Mono.ttf
+Iosevka Bold Italic Nerd Font Complete Windows Compatible.ttf
+Iosevka Bold Italic Nerd Font Complete Mono.ttf
+Iosevka Bold Italic Nerd Font Complete Mono Windows Compatible.ttf
+Iosevka Bold Italic Nerd Font Complete.ttf
+Iosevka Extralight Oblique Nerd Font Complete Mono Windows Compatible.ttf
+Iosevka Extralight Oblique Nerd Font Complete.ttf
+Iosevka Extralight Oblique Nerd Font Complete Mono.ttf
+Iosevka Extralight Oblique Nerd Font Complete Windows Compatible.ttf
+Iosevka Extralight Nerd Font Complete Windows Compatible.ttf
+Iosevka Extralight Nerd Font Complete.ttf
+Iosevka Extralight Nerd Font Complete Mono.ttf
+Iosevka Extralight Nerd Font Complete Mono Windows Compatible.ttf
+Iosevka Medium Nerd Font Complete Mono Windows Compatible.ttf
+Iosevka Medium Nerd Font Complete.ttf
+Iosevka Medium Nerd Font Complete Windows Compatible.ttf
+Iosevka Medium Nerd Font Complete Mono.ttf
+Iosevka Medium Italic Nerd Font Complete Mono Windows Compatible.ttf
+Iosevka Medium Italic Nerd Font Complete Mono.ttf
+Iosevka Medium Italic Nerd Font Complete.ttf
+Iosevka Medium Italic Nerd Font Complete Windows Compatible.ttf
+Iosevka Medium Oblique Nerd Font Complete Mono.ttf
+Iosevka Medium Oblique Nerd Font Complete.ttf
+Iosevka Medium Oblique Nerd Font Complete Mono Windows Compatible.ttf
+Iosevka Medium Oblique Nerd Font Complete Windows Compatible.ttf
+3270 Narrow Nerd Font Complete Mono.ttf
+3270 Narrow Nerd Font Complete Mono Windows Compatible.ttf
+3270 Narrow Nerd Font Complete.ttf
+3270 Narrow Nerd Font Complete Windows Compatible.ttf
+3270-Medium Nerd Font Complete Windows Compatible.ttf
+3270-Medium Nerd Font Complete.ttf
+3270-Medium Nerd Font Complete Mono.ttf
+3270-Medium Nerd Font Complete Mono Windows Compatible.ttf
+DejaVu Sans Mono Bold Nerd Font Complete.ttf
+DejaVu Sans Mono Bold Nerd Font Complete Mono.ttf
+DejaVu Sans Mono Bold Nerd Font Complete Mono Windows Compatible.ttf
+DejaVu Sans Mono Bold for Powerline Nerd Font Complete Windows Compatible.ttf
+DejaVu Sans Mono Bold Nerd Font Complete Windows Compatible.ttf
+DejaVu Sans Mono Bold for Powerline Nerd Font Complete.ttf
+DejaVu Sans Mono Bold for Powerline Nerd Font Complete Mono Windows Compatible.ttf
+DejaVu Sans Mono Bold for Powerline Nerd Font Complete Mono.ttf
+DejaVu Sans Mono Oblique Nerd Font Complete Windows Compatible.ttf
+DejaVu Sans Mono Oblique Nerd Font Complete.ttf
+DejaVu Sans Mono Oblique for Powerline Nerd Font Complete.ttf
+DejaVu Sans Mono Oblique for Powerline Nerd Font Complete Windows Compatible.ttf
+DejaVu Sans Mono Oblique for Powerline Nerd Font Complete Mono.ttf
+DejaVu Sans Mono Oblique for Powerline Nerd Font Complete Mono Windows Compatible.ttf
+DejaVu Sans Mono Oblique Nerd Font Complete Mono Windows Compatible.ttf
+DejaVu Sans Mono Oblique Nerd Font Complete Mono.ttf
+DejaVu Sans Mono Nerd Font Complete Mono.ttf
+DejaVu Sans Mono for Powerline Nerd Font Complete Windows Compatible.ttf
+DejaVu Sans Mono Nerd Font Complete.ttf
+DejaVu Sans Mono for Powerline Nerd Font Complete Mono.ttf
+DejaVu Sans Mono Nerd Font Complete Mono Windows Compatible.ttf
+DejaVu Sans Mono Nerd Font Complete Windows Compatible.ttf
+DejaVu Sans Mono for Powerline Nerd Font Complete Mono Windows Compatible.ttf
+DejaVu Sans Mono for Powerline Nerd Font Complete.ttf
+DejaVu Sans Mono Bold Oblique Nerd Font Complete Mono Windows Compatible.ttf
+DejaVu Sans Mono Bold Oblique for Powerline Nerd Font Complete Mono.ttf
+DejaVu Sans Mono Bold Oblique for Powerline Nerd Font Complete.ttf
+DejaVu Sans Mono Bold Oblique for Powerline Nerd Font Complete Windows Compatible.ttf
+DejaVu Sans Mono Bold Oblique Nerd Font Complete.ttf
+DejaVu Sans Mono Bold Oblique Nerd Font Complete Mono.ttf
+DejaVu Sans Mono Bold Oblique for Powerline Nerd Font Complete Mono Windows Compatible.ttf
+DejaVu Sans Mono Bold Oblique Nerd Font Complete Windows Compatible.ttf
+Roboto Mono Thin Italic Nerd Font Complete.ttf
+Roboto Mono Thin Italic Nerd Font Complete Mono Windows Compatible.ttf
+Roboto Mono Medium Italic Nerd Font Complete.ttf
+Roboto Mono Medium Nerd Font Complete.ttf
+Roboto Mono Italic Nerd Font Complete Mono Windows Compatible.ttf
+Roboto Mono Bold Nerd Font Complete Mono Windows Compatible.ttf
+Roboto Mono Light Italic Nerd Font Complete Mono.ttf
+Roboto Mono Light Italic Nerd Font Complete.ttf
+Roboto Mono Medium Nerd Font Complete Windows Compatible.ttf
+Roboto Mono Bold Italic Nerd Font Complete Mono Windows Compatible.ttf
+Roboto Mono Thin Nerd Font Complete.ttf
+Roboto Mono Italic Nerd Font Complete Mono.ttf
+Roboto Mono Medium Italic Nerd Font Complete Mono Windows Compatible.ttf
+Roboto Mono Light Nerd Font Complete.ttf
+Roboto Mono Medium Italic Nerd Font Complete Mono.ttf
+Roboto Mono Nerd Font Complete Mono Windows Compatible.ttf
+Roboto Mono Medium Nerd Font Complete Mono.ttf
+Roboto Mono Nerd Font Complete Mono.ttf
+Roboto Mono Italic Nerd Font Complete Windows Compatible.ttf
+Roboto Mono Light Italic Nerd Font Complete Windows Compatible.ttf
+Roboto Mono Medium Italic Nerd Font Complete Windows Compatible.ttf
+Roboto Mono Light Italic Nerd Font Complete Mono Windows Compatible.ttf
+Roboto Mono Nerd Font Complete.ttf
+Roboto Mono Italic Nerd Font Complete.ttf
+Roboto Mono Medium Nerd Font Complete Mono Windows Compatible.ttf
+Roboto Mono Thin Italic Nerd Font Complete Mono.ttf
+Roboto Mono Light Nerd Font Complete Windows Compatible.ttf
+Roboto Mono Thin Nerd Font Complete Mono.ttf
+Roboto Mono Thin Nerd Font Complete Mono Windows Compatible.ttf
+Roboto Mono Thin Nerd Font Complete Windows Compatible.ttf
+Roboto Mono Light Nerd Font Complete Mono Windows Compatible.ttf
+Roboto Mono Bold Italic Nerd Font Complete Mono.ttf
+Roboto Mono Bold Nerd Font Complete.ttf
+Roboto Mono Bold Italic Nerd Font Complete.ttf
+Roboto Mono Nerd Font Complete Windows Compatible.ttf
+Roboto Mono Bold Nerd Font Complete Mono.ttf
+Roboto Mono Bold Nerd Font Complete Windows Compatible.ttf
+Roboto Mono Thin Italic Nerd Font Complete Windows Compatible.ttf
+Roboto Mono Light Nerd Font Complete Mono.ttf
+Roboto Mono Bold Italic Nerd Font Complete Windows Compatible.ttf
+GohuFont-Bold Nerd Font Complete Mono Windows Compatible.ttf
+GohuFont-Medium Nerd Font Complete Mono.ttf
+GohuFont-Bold Nerd Font Complete Mono.ttf
+GohuFont-Medium Nerd Font Complete Windows Compatible.ttf
+GohuFont-Medium Nerd Font Complete.ttf
+GohuFont-Bold Nerd Font Complete Windows Compatible.ttf
+GohuFont-Bold Nerd Font Complete.ttf
+GohuFont-Medium Nerd Font Complete Mono Windows Compatible.ttf
+Ubuntu Mono derivative Powerline Nerd Font Complete Mono.ttf
+Ubuntu Mono derivative Powerline Nerd Font Complete Mono Windows Compatible.ttf
+Ubuntu Mono derivative Powerline Nerd Font Complete Windows Compatible.ttf
+Ubuntu Mono derivative Powerline Nerd Font Complete.ttf
+Ubuntu Mono Nerd Font Complete Windows Compatible.ttf
+Ubuntu Mono Nerd Font Complete.ttf
+Ubuntu Mono Nerd Font Complete Mono Windows Compatible.ttf
+Ubuntu Mono Nerd Font Complete Mono.ttf
+Fantasque Sans Mono Bold Nerd Font Complete Mono Windows Compatible.ttf
+Fantasque Sans Mono Bold Nerd Font Complete Mono.ttf
+Fantasque Sans Mono Bold Nerd Font Complete Windows Compatible.ttf
+Fantasque Sans Mono Bold Nerd Font Complete.ttf
+Fantasque Sans Mono Italic Nerd Font Complete Mono.ttf
+Fantasque Sans Mono Italic Nerd Font Complete Windows Compatible.ttf
+Fantasque Sans Mono Italic Nerd Font Complete.ttf
+Fantasque Sans Mono Italic Nerd Font Complete Mono Windows Compatible.ttf
+Fantasque Sans Mono Regular Nerd Font Complete Mono Windows Compatible.ttf
+Fantasque Sans Mono Regular Nerd Font Complete Windows Compatible.ttf
+Fantasque Sans Mono Regular Nerd Font Complete.ttf
+Fantasque Sans Mono Regular Nerd Font Complete Mono.ttf
+Fantasque Sans Mono Bold Italic Nerd Font Complete.ttf
+Fantasque Sans Mono Bold Italic Nerd Font Complete Mono Windows Compatible.ttf
+Fantasque Sans Mono Bold Italic Nerd Font Complete Windows Compatible.ttf
+Fantasque Sans Mono Bold Italic Nerd Font Complete Mono.ttf
+Monoid Bold Nerd Font Complete Mono.ttf
+Monoid Retina Nerd Font Complete Windows Compatible.ttf
+Monoid Regular Nerd Font Complete Mono Windows Compatible.ttf
+Monoid Bold Nerd Font Complete Windows Compatible.ttf
+Monoid Regular Nerd Font Complete Mono.ttf
+Monoid Regular Nerd Font Complete Windows Compatible.ttf
+Monoid Bold Nerd Font Complete Mono Windows Compatible.ttf
+Monoid Italic Nerd Font Complete Windows Compatible.ttf
+Monoid Bold Nerd Font Complete.ttf
+Monoid Retina Nerd Font Complete Mono.ttf
+Monoid Italic Nerd Font Complete.ttf
+Monoid Italic Nerd Font Complete Mono.ttf
+Monoid Italic Nerd Font Complete Mono Windows Compatible.ttf
+Monoid Regular Nerd Font Complete.ttf
+Monoid Retina Nerd Font Complete Mono Windows Compatible.ttf
+Monoid Retina Nerd Font Complete.ttf
+ProggyCleanTTSZ Nerd Font Complete Windows Compatible.ttf
+ProggyCleanTTSZ Nerd Font Complete Mono.ttf
+ProggyCleanTTSZ Nerd Font Complete.ttf
+ProggyCleanTTSZ Nerd Font Complete Mono Windows Compatible.ttf
+ProggyCleanTT Nerd Font Complete Windows Compatible.ttf
+ProggyCleanTT Nerd Font Complete Mono Windows Compatible.ttf
+ProggyCleanTT Nerd Font Complete Mono.ttf
+ProggyCleanTT Nerd Font Complete.ttf
+ProggyCleanTT CE Nerd Font Complete Mono.ttf
+ProggyCleanTT CE Nerd Font Complete Windows Compatible.ttf
+ProggyCleanTT CE Nerd Font Complete.ttf
+ProggyCleanTT CE Nerd Font Complete Mono Windows Compatible.ttf
+Sauce Code Pro Bold Nerd Font Complete.ttf
+Sauce Code Pro Bold Nerd Font Complete Mono Windows Compatible.ttf
+Sauce Code Pro Bold Nerd Font Complete Windows Compatible.ttf
+Sauce Code Pro Bold Nerd Font Complete Mono.ttf
+Sauce Code Pro Nerd Font Complete Mono.ttf
+Sauce Code Pro Nerd Font Complete.ttf
+Sauce Code Pro Nerd Font Complete Mono Windows Compatible.ttf
+Sauce Code Pro Nerd Font Complete Windows Compatible.ttf
+Sauce Code Pro Semibold Nerd Font Complete Mono.ttf
+Sauce Code Pro Semibold Nerd Font Complete Windows Compatible.ttf
+Sauce Code Pro Semibold Nerd Font Complete.ttf
+Sauce Code Pro Semibold Nerd Font Complete Mono Windows Compatible.ttf
+Sauce Code Pro Light Nerd Font Complete Mono.ttf
+Sauce Code Pro Light Nerd Font Complete Mono Windows Compatible.ttf
+Sauce Code Pro Light Nerd Font Complete Windows Compatible.ttf
+Sauce Code Pro Light Nerd Font Complete.ttf
+Sauce Code Pro Black Nerd Font Complete.ttf
+Sauce Code Pro Black Nerd Font Complete Mono Windows Compatible.ttf
+Sauce Code Pro Black Nerd Font Complete Windows Compatible.ttf
+Sauce Code Pro Black Nerd Font Complete Mono.ttf
+Sauce Code Pro ExtraLight Nerd Font Complete Windows Compatible.ttf
+Sauce Code Pro ExtraLight Nerd Font Complete Mono.ttf
+Sauce Code Pro ExtraLight Nerd Font Complete Mono Windows Compatible.ttf
+Sauce Code Pro ExtraLight Nerd Font Complete.ttf
+Sauce Code Pro Medium Nerd Font Complete Mono.ttf
+Sauce Code Pro Medium Nerd Font Complete Windows Compatible.ttf
+Sauce Code Pro Medium Nerd Font Complete.ttf
+Sauce Code Pro Medium Nerd Font Complete Mono Windows Compatible.ttf
+ProFont IIx Nerd Font Complete Mono.ttf
+ProFont IIx Nerd Font Complete Windows Compatible.ttf
+ProFont IIx Nerd Font Complete.ttf
+ProFont IIx Nerd Font Complete Mono Windows Compatible.ttf
+ProFontWindows Nerd Font Complete Mono.ttf
+ProFontWindows Nerd Font Complete Windows Compatible.ttf
+ProFontWindows Nerd Font Complete Mono Windows Compatible.ttf
+ProFontWindows Nerd Font Complete.ttf
+Knack Bold Nerd Font Complete Windows Compatible.ttf
+Knack Bold Nerd Font Complete Mono Windows Compatible.ttf
+Knack Bold Nerd Font Complete.ttf
+Knack Bold Nerd Font Complete Mono.ttf
+Knack Italic Nerd Font Complete.ttf
+Knack Italic Nerd Font Complete Mono.ttf
+Knack Italic Nerd Font Complete Mono Windows Compatible.ttf
+Knack Italic Nerd Font Complete Windows Compatible.ttf
+Knack Regular Nerd Font Complete Mono Windows Compatible.ttf
+Knack Regular Nerd Font Complete.ttf
+Knack Regular Nerd Font Complete Mono.ttf
+Knack Regular Nerd Font Complete Windows Compatible.ttf
+Knack Bold Italic Nerd Font Complete Windows Compatible.ttf
+Knack Bold Italic Nerd Font Complete Mono Windows Compatible.ttf
+Knack Bold Italic Nerd Font Complete.ttf
+Knack Bold Italic Nerd Font Complete Mono.ttf
+Shure Tech Mono Nerd Font Complete.ttf
+Shure Tech Mono Nerd Font Complete Windows Compatible.ttf
+Shure Tech Mono Nerd Font Complete Mono.ttf
+Shure Tech Mono Nerd Font Complete Mono Windows Compatible.ttf
+Heavy Data Nerd Font Complete.ttf
+Heavy Data Nerd Font Complete Mono Windows Compatible.ttf
+Heavy Data Nerd Font Complete Mono.ttf
+Heavy Data Nerd Font Complete Windows Compatible.ttf
+M+ 1m bold Nerd Font Complete.ttf
+M+ 1m bold Nerd Font Complete Windows Compatible.ttf
+M+ 1m bold Nerd Font Complete Mono.ttf
+M+ 1m bold Nerd Font Complete Mono Windows Compatible.ttf
+M+ 1m regular Nerd Font Complete Mono.ttf
+M+ 1m regular Nerd Font Complete Windows Compatible.ttf
+M+ 1m regular Nerd Font Complete.ttf
+M+ 1m regular Nerd Font Complete Mono Windows Compatible.ttf
+M+ 1m thin Nerd Font Complete Mono Windows Compatible.ttf
+M+ 1m thin Nerd Font Complete Windows Compatible.ttf
+M+ 1m thin Nerd Font Complete Mono.ttf
+M+ 1m thin Nerd Font Complete.ttf
+M+ 1m light Nerd Font Complete Mono.ttf
+M+ 1m light Nerd Font Complete.ttf
+M+ 1m light Nerd Font Complete Windows Compatible.ttf
+M+ 1m light Nerd Font Complete Mono Windows Compatible.ttf
+M+ 1m medium Nerd Font Complete.ttf
+M+ 1m medium Nerd Font Complete Mono Windows Compatible.ttf
+M+ 1m medium Nerd Font Complete Mono.ttf
+M+ 1m medium Nerd Font Complete Windows Compatible.ttf
+monofur   bold for Powerline Nerd Font Complete Mono Windows Compatible.ttf
+monofur   bold for Powerline Nerd Font Complete Windows Compatible.ttf
+monofur   bold for Powerline Nerd Font Complete.ttf
+monofur   bold for Powerline Nerd Font Complete Mono.ttf
+monofur   italic for Powerline Nerd Font Complete Mono.ttf
+monofur   italic for Powerline Nerd Font Complete Mono Windows Compatible.ttf
+monofur   italic for Powerline Nerd Font Complete Windows Compatible.ttf
+monofur   italic for Powerline Nerd Font Complete.ttf
+monofur for Powerline Nerd Font Complete Mono Windows Compatible.ttf
+monofur for Powerline Nerd Font Complete.ttf
+monofur for Powerline Nerd Font Complete Windows Compatible.ttf
+monofur for Powerline Nerd Font Complete Mono.ttf
+mononoki Italic Nerd Font Complete Windows Compatible.ttf
+mononoki Bold Nerd Font Complete Mono.ttf
+mononoki Italic Nerd Font Complete Mono.ttf
+mononoki Italic Nerd Font Complete Mono Windows Compatible.ttf
+mononoki-Regular Nerd Font Complete Windows Compatible.ttf
+mononoki Bold Italic Nerd Font Complete.ttf
+mononoki Bold Nerd Font Complete Windows Compatible.ttf
+mononoki-Regular Nerd Font Complete.ttf
+mononoki Bold Italic Nerd Font Complete Mono Windows Compatible.ttf
+mononoki Bold Italic Nerd Font Complete Windows Compatible.ttf
+mononoki-Regular Nerd Font Complete Mono.ttf
+mononoki Bold Nerd Font Complete.ttf
+mononoki Italic Nerd Font Complete.ttf
+mononoki-Regular Nerd Font Complete Mono Windows Compatible.ttf
+mononoki Bold Italic Nerd Font Complete Mono.ttf
+mononoki Bold Nerd Font Complete Mono Windows Compatible.ttf
+Bitstream Vera Sans Mono Bold Nerd Font Complete Mono.ttf
+Bitstream Vera Sans Mono Bold Nerd Font Complete Windows Compatible.ttf
+Bitstream Vera Sans Mono Bold Nerd Font Complete.ttf
+Bitstream Vera Sans Mono Bold Nerd Font Complete Mono Windows Compatible.ttf
+Bitstream Vera Sans Mono Oblique Nerd Font Complete Mono Windows Compatible.ttf
+Bitstream Vera Sans Mono Oblique Nerd Font Complete Windows Compatible.ttf
+Bitstream Vera Sans Mono Oblique Nerd Font Complete Mono.ttf
+Bitstream Vera Sans Mono Oblique Nerd Font Complete.ttf
+Bitstream Vera Sans Mono Nerd Font Complete Windows Compatible.ttf
+Bitstream Vera Sans Mono Nerd Font Complete Mono Windows Compatible.ttf
+Bitstream Vera Sans Mono Nerd Font Complete.ttf
+Bitstream Vera Sans Mono Nerd Font Complete Mono.ttf
+Bitstream Vera Sans Mono Bold Oblique Nerd Font Complete Mono.ttf
+Bitstream Vera Sans Mono Bold Oblique Nerd Font Complete Windows Compatible.ttf
+Bitstream Vera Sans Mono Bold Oblique Nerd Font Complete Mono Windows Compatible.ttf
+Bitstream Vera Sans Mono Bold Oblique Nerd Font Complete.ttf
