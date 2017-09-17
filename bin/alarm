@@ -22,11 +22,11 @@ echo "Time is $NOW; Executing alarm!"
 amixer -q sset Master unmute
 amixer -q sset Master 100%
 
-#ALARM="/home/guest/DATA-TWILY-OLD/music/Miley Cyrus - Can't Be Tamed.mp3"
-#mpv --loop=inf --no-terminal --volume=100 "$ALARM"
+ALARM="/home/kukushka/Downloads/Music/Miley Cyrus - Can't Be Tamed.mp3"
+mpv --loop=inf --no-terminal --volume=100 "$ALARM"
 
 # http://www.actsofvolition.com/archive/2005/january/thesoundofdata
-wget http://twily.info/usa.bmp --quiet -O /tmp/usa.bmp
-while :; do cat /tmp/usa.bmp | aplay --quiet -r 8000; done
+#wget http://twily.info/usa.bmp --quiet -O /tmp/usa.bmp
+#while :; do cat /tmp/usa.bmp | aplay --quiet -r 8000; done
 
 exit
