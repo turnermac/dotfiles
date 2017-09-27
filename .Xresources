@@ -1,53 +1,127 @@
+! font settings --------------------------------------------------------------
 
-xterm*borderWidth: 0
-XTerm*allowBoldFonts: false
+Xft.autohint: true
+Xft.antialias: true
+Xft.hinting: true
+Xft.hintstyle: hintslight
+!Xft.dpi: 96
+Xft.rgba: rgb
+Xft.lcdfilter: lcddefault
+
+!Added
+URxvt.internalBorder: 15
+URxvt.scrollBar: false
+!End Added
+
+
+! xscreensaver ---------------------------------------------------------------
+
+!font settings
+xscreensaver.Dialog.headingFont:        -*-fixed-medium-r-*-*-14-*-*-*-*-*-*-*
+xscreensaver.Dialog.bodyFont:           -*-fixed-medium-r-*-*-14-*-*-*-*-*-*-*
+xscreensaver.Dialog.labelFont:          -*-fixed-medium-r-*-*-14-*-*-*-*-*-*-*
+xscreensaver.Dialog.unameFont:          -*-fixed-medium-r-*-*-14-*-*-*-*-*-*-*
+xscreensaver.Dialog.buttonFont:         -*-fixed-medium-r-*-*-14-*-*-*-*-*-*-*
+xscreensaver.Dialog.dateFont:           -*-fixed-medium-r-*-*-12-*-*-*-*-*-*-*
+xscreensaver.passwd.passwdFont:         -*-fixed-medium-r-*-*-14-*-*-*-*-*-*-*
+!general dialog box (affects main hostname, username, password text)
+xscreensaver.Dialog.foreground:         #101010
+xscreensaver.Dialog.background:         #D8D8D8
+xscreensaver.Dialog.topShadowColor:     #D8D8D8
+xscreensaver.Dialog.bottomShadowColor:  #D8D8D8
+xscreensaver.Dialog.Button.foreground:  #101010
+xscreensaver.Dialog.Button.background:  #E5E5E5
+!username/password input box and date text colour
+xscreensaver.Dialog.text.foreground:    #101010
+xscreensaver.Dialog.text.background:    #E5E5E5
+xscreensaver.Dialog.internalBorderWidth:24
+xscreensaver.Dialog.borderWidth:        0
+xscreensaver.Dialog.shadowThickness:    2
+!timeout bar (background is actually determined by Dialog.text.background)
+xscreensaver.passwd.thermometer.foreground:  #101010
+xscreensaver.passwd.thermometer.background:  #2E2E2E
+xscreensaver.passwd.thermometer.width:       8
+
+! urxvt -------------------------------------------
+
+URxvt.font: xft:ProFontWindows:Bold:size=8
+URxvt.boldFont: xft:ProFontWindows:Bold:size=8
+!URxvt.letterSpace: -2
+! Add fallback fonts as laid out in `man 1 urxvt` under "font:" in the RESOURCES section
+
+! Window size and position
+!URxvt*geometry: 60x22+50+100
+! Window size, let the Window Manager position it
+URxvt.geometry: 120x35
 
 URxvt.scrollstyle: plain
-URxvt.scrollBar: false
-URxvt*scrollTtyOuput: false
-URxvt*scrollWidthBuffer: true
-URxvt*scrollTtyKeypress: true
+URxvt.iconFile: /usr/share/icons/Faenza-Bunsen-common/apps/48/utilities-terminal.png
+
+! Grey theming
+!URxvt*background: #cecece
+!URxvt*foreground: #101010
+! Terminator Crunchbang colours
+URxvt.background: [90]#2e3436
+URxvt.foreground: #d8d8d8
+
+! scrollback buffer lines - 65535 is max (64 is default)
+URxvt.saveLines:16384
+
+! True Transparency, opacity percentage set in square brackets before URxvt.background colour
+URxvt.depth: 32
+
+! Clickble URLs
 URxvt.perl-ext-common: default,matcher
-URxvt.url-launcher: /usr/bin/light-firefox
-URxvt.matcher.button: 1
-URxvt.internalBorder: 30
+URxvt.url-launcher: /usr/bin/x-www-browser
+URxvt.matcher.button: 3
 
-!*faceName:Terminus:style=Regular:size=9
+! Custom colourscheme, see http://terminal.sexy/ for more ideas.
 
-*font:-*-tewi-medium-*-*-*-*-*-*-*-*-*-*-*
 ! special
-*.foreground:   #464646
-*.background:   #fcfcfc
-*.cursorColor:  #464646
+*.foreground:   #988DA5
+*.background:   #8C8192
+*.cursorColor:  #FFE2FF
 
 ! black
-*.color0:       #101010
-*.color8:       #525252
+*.color0:       #1b181b
+*.color8:       #776977
 
 ! red
-*.color1:       #7c7c7c
-*.color9:       #7c7c7c
+*.color1:       #ea4e4e
+*.color9:       #ea4e4e
 
 ! green
-*.color2:       #8e8e8e
-*.color10:      #8e8e8e
+*.color2:       #54FF54
+*.color10:      #54FF54
 
 ! yellow
-*.color3:       #a0a0a0
-*.color11:      #a0a0a0
+*.color3:       #eaea4f
+*.color11:      #eaea4f
 
 ! blue
-*.color4:       #686868
-*.color12:      #686868
+*.color4:       #516aec
+*.color12:      #516aec
 
 ! magenta
-*.color5:       #747474
-*.color13:      #747474
+*.color5:       #7b59c0
+*.color13:      #7b59c0
 
 ! cyan
-*.color6:       #868686
-*.color14:      #868686
+*.color6:       #159393
+*.color14:      #159393
 
 ! white
-*.color7:       #b9b9b9
-*.color15:      #f7f7f7
+*.color7:       #ab9bab
+*.color15:      #f7f3f7
+
+
+! Colourised man pages, also changes scheme for htop(1) and others.
+!
+! Headings:
+ URxvt.colorBD: #cf6171
+!
+! Underline:
+ URxvt.colorUL: #4186be
+!
+! Italicised:
+ URxvt.colorIT: #71bebe

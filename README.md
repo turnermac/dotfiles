@@ -1,4 +1,4 @@
 # dotfiles
-My dotfiles.
+Dotfiles for a normal user
 
-Most of this is taken or modified from others on github or elswhere.
+
