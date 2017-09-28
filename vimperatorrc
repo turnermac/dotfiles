@@ -78,7 +78,7 @@ nnoremap <Esc> <Esc>:set gui=nonavigation<CR>
 
 " shortcuts open URL
 noremap ta :tabopen https://appengine.google.com/<CR>
-noremap th :tabopen ///data/projects/.startpages/twily/s/firefox/homepage-centered-iframe.html<CR>
+noremap th :tabopen ///home/kukushka/Startpage-for-Firefox/index.html<CR>
 noremap tb :tabopen https://pan.baidu.com<CR>
 noremap td :tabopen https://drive.google.com/<CR>
 noremap tm :tabopen https://mail.google.com/<CR>
@@ -91,7 +91,7 @@ noremap ts :tabopen https://www.google.com/ncr<CR>
 noremap tw :tabopen https://wx.qq.com<CR>
 noremap tk :tabopen https://vp.pl/<CR>
 noremap tr :tabopen https://reddit.com/xmonad/comments/2Bmk6m/fullscreen_sdl_appsgames_with_xmonad/<CR>
-noremap tt :tabopen ///data/projects/.startpages/twily/s/firefox/homepage-masonry.html<CR>
+noremap tt :tabopen ///home/kukushka/<CR>
 
 " source! /home/sysop/.vimperatorrc.local
 
